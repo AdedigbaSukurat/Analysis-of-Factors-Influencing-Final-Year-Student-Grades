@@ -1,0 +1,101 @@
+﻿LecturerID,FirstName,LastName,HireDate,Department,Desgnation
+ST / BIO / 111,Emily,Carrillo,15/09/2020,Biology,Professor
+ST / BIO / 112,Vanessa,Bailey,30/09/2020,Biology,Doctor
+ST / BIO / 113,Tammy,Pratt,28/05/2024,Biology,Lecturer 1
+ST / BIO / 114,Sharon,Leonard,26/01/2023,Biology,Lecturer 2
+ST / BIO / 115,Patricia,Krueger,15/08/2023,Biology, Lecturer
+ST / BIO / 161,Anna,Wright,29/08/2023,Biology,Professor
+ST / BIO / 162,Lindsay,Simmons,25/04/2020,Biology,Doctor
+ST / BIO / 163,Rebecca,King,22/04/2021,Biology,Lecturer 1
+ST / BIO / 164,Kaylee,Lee,23/02/2022,Biology,Lecturer 2
+ST / BIO / 165,Randy,Sullivan,04/01/2021,Biology, Lecturer
+ST / CHE / 116,Julie,Walker,31/03/2021,Chemistry,Professor
+ST / CHE / 117,Alexander,Anderson,04/09/2022,Chemistry,Doctor
+ST / CHE / 118,Olivia,Stokes,25/02/2021,Chemistry,Lecturer 1
+ST / CHE / 119,Selena,Brown,01/03/2023,Chemistry,Lecturer 2
+ST / CHE / 120,Andrew,Clark,09/02/2023,Chemistry, Lecturer
+ST / CHE / 166,Tyler,Robinson,09/01/2024,Chemistry,Professor
+ST / CHE / 167,Aaron,Patton,07/06/2021,Chemistry,Doctor
+ST / CHE / 168,Jonathan,Vega,01/06/2024,Chemistry,Lecturer 1
+ST / CHE / 169,Willie,Parks,12/02/2024,Chemistry,Lecturer 2
+ST / CHE / 170,Bailey,Goodwin,22/09/2020,Chemistry, Lecturer
+ST / COM / 136,Jerome,Marquez,02/05/2021,Computer Science,Professor
+ST / COM / 137,Ellen,Short,26/03/2023,Computer Science,Doctor
+ST / COM / 138,Christopher,Martin,16/02/2021,Computer Science,Lecturer 1
+ST / COM / 139,Danielle,Rojas,03/08/2023,Computer Science,Lecturer 2
+ST / COM / 140,James,Austin,17/05/2024,Computer Science, Lecturer
+ST / COM / 186,Jaclyn,Thompson,19/07/2024,Computer Science,Professor
+ST / COM / 187,Donald,Stevenson,19/12/2023,Computer Science,Doctor
+ST / COM / 188,Scott,Stewart,28/02/2023,Computer Science,Lecturer 1
+ST / COM / 189,Brian,Lawrence,07/06/2023,Computer Science,Lecturer 2
+ST / COM / 190,Jason,Matthews,16/06/2023,Computer Science, Lecturer
+ST / ECO / 141,Danny,Conway,06/12/2022,Economics,Professor
+ST / ECO / 142,Shane,Avila,25/05/2023,Economics,Doctor
+ST / ECO / 143,Sharon,Shaffer,13/03/2021,Economics,Lecturer 1
+ST / ECO / 144,Matthew,Griffith,21/03/2023,Economics,Lecturer 2
+ST / ECO / 145,William,Casey,05/04/2020,Economics, Lecturer
+ST / ECO / 191,Jasmine,Martin,10/05/2021,Economics,Professor
+ST / ECO / 192,Charlene,Sparks,02/11/2020,Economics,Doctor
+ST / ECO / 193,Jean,Silva,15/04/2022,Economics,Lecturer 1
+ST / ECO / 194,Travis,Day,26/04/2022,Economics,Lecturer 2
+ST / ECO / 195,Victoria,Summers,13/02/2020,Economics, Lecturer
+ST / ENG / 106,Kevin,Thomas,17/04/2023,English,Professor
+ST / ENG / 107,Edward,Bryant,30/05/2021,English,Doctor
+ST / ENG / 108,Mark,Bolton,02/10/2021,English,Lecturer 1
+ST / ENG / 109,Erika,Arroyo,26/04/2021,English,Lecturer 2
+ST / ENG / 110,Cynthia,Taylor,21/11/2021,English, Lecturer
+ST / ENG / 156,Dennis,Gregory,09/05/2024,English,Professor
+ST / ENG / 157,Ryan,Oneal,25/02/2020,English,Doctor
+ST / ENG / 158,Jessica,Gomez,25/07/2024,English,Lecturer 1
+ST / ENG / 159,Willie,Navarro,18/01/2020,English,Lecturer 2
+ST / ENG / 160,Ashley,Bernard,14/05/2024,English, Lecturer
+ST / HIS / 126,Alan,Hernandez,24/03/2020,History,Professor
+ST / HIS / 127,Caroline,Rodriguez,26/10/2020,History,Doctor
+ST / HIS / 128,Nicole,House,21/11/2020,History,Lecturer 1
+ST / HIS / 129,Austin,Fletcher,04/02/2020,History,Lecturer 2
+ST / HIS / 130,Linda,Diaz,30/01/2024,History, Lecturer
+ST / HIS / 176,Evan,Nelson,16/02/2022,History,Professor
+ST / HIS / 177,Chelsea,Rodriguez,10/04/2020,History,Doctor
+ST / HIS / 178,Adam,Christensen,15/11/2020,History,Lecturer 1
+ST / HIS / 179,Robert,Willis,22/09/2022,History,Lecturer 2
+ST / HIS / 180,David,Estes,26/08/2022,History, Lecturer
+ST / MAT / 101,Joseph,Martin,22/10/2021,Mathematics,Professor
+ST / MAT / 102,Sarah,Lawson,23/05/2020,Mathematics,Doctor
+ST / MAT / 103,Frank,Roberts,31/03/2023,Mathematics,Lecturer 1
+ST / MAT / 104,Jason,Scott,21/06/2021,Mathematics,Lecturer 2
+ST / MAT / 105,Phillip,Thomas,22/06/2021,Mathematics, Lecturer
+ST / MAT / 151,Veronica,Murillo,20/02/2023,Mathematics,Professor
+ST / MAT / 152,Brandon,Perry,24/07/2024,Mathematics,Doctor
+ST / MAT / 153,Connie,Rodriguez,12/03/2021,Mathematics,Lecturer 1
+ST / MAT / 154,Kyle,Waters,01/06/2023,Mathematics,Lecturer 2
+ST / MAT / 155,Brian,Lara,13/04/2020,Mathematics, Lecturer
+ST / PHY / 121,Jonathan,Miller,29/02/2024,Physics,Professor
+ST / PHY / 122,Lance,Smith,27/03/2020,Physics,Doctor
+ST / PHY / 123,Jose,Cortez,25/07/2020,Physics,Lecturer 1
+ST / PHY / 124,Adam,Mayer,10/07/2020,Physics,Lecturer 2
+ST / PHY / 125,Christine,May,14/05/2024,Physics, Lecturer
+ST / PHY / 171,Heather,Scott,26/03/2022,Physics,Professor
+ST / PHY / 172,Yvonne,Torres,31/10/2022,Physics,Doctor
+ST / PHY / 173,Mario,York,30/04/2022,Physics,Lecturer 1
+ST / PHY / 174,Ernest,Sullivan,08/02/2022,Physics,Lecturer 2
+ST / PHY / 175,Brian,Clark,27/07/2023,Physics, Lecturer
+ST / POL / 146,Theresa,Walker,19/04/2023,Political Science,Professor
+ST / POL / 147,Robert,Ward,22/09/2023,Political Science,Doctor
+ST / POL / 148,Amy,Mccarthy,07/01/2022,Political Science,Lecturer 1
+ST / POL / 149,Jennifer,Strong,28/06/2022,Political Science,Lecturer 2
+ST / POL / 150,Shannon,Klein,14/04/2023,Political Science, Lecturer
+ST / POL / 196,Joseph,Pierce,16/09/2021,Political Science,Professor
+ST / POL / 197,Jason,Shannon,19/01/2022,Political Science,Doctor
+ST / POL / 198,Frank,Reed,30/03/2020,Political Science,Lecturer 1
+ST / POL / 199,Lisa,Williams,01/07/2023,Political Science,Lecturer 2
+ST / POL / 200,Nichole,Anderson,30/05/2020,Political Science, Lecturer
+ST / PSY / 131,Tara,Escobar,21/10/2021,Psychology,Professor
+ST / PSY / 132,Brittany,Young,16/01/2022,Psychology,Doctor
+ST / PSY / 133,Jeffrey,Gibson,15/02/2023,Psychology,Lecturer 1
+ST / PSY / 134,Gerald,Roth,04/07/2022,Psychology,Lecturer 2
+ST / PSY / 135,Heather,Jacobs,10/08/2022,Psychology, Lecturer
+ST / PSY / 181,Rebecca,Hall,09/06/2021,Psychology,Professor
+ST / PSY / 182,Samuel,Johnson,28/12/2020,Psychology,Doctor
+ST / PSY / 183,Tara,Morgan,17/05/2022,Psychology,Lecturer 1
+ST / PSY / 184,Meredith,Calderon,06/08/2021,Psychology,Lecturer 2
+ST / PSY / 185,Justin,Wagner,28/01/2020,Psychology, Lecturer

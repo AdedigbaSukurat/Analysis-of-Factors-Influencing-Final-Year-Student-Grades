@@ -1,0 +1,1001 @@
+﻿S/N,StudentID,FirstName,LastName,Gender,Department,Birth date
+1,BIO / 1001,Derek,Holland,Female,Biology,22/11/1996
+1,CHE / 1001,Kimberly,Cruz,Male,Chemistry,25/12/2002
+1,COM / 1001,Elizabeth,Fisher,Female,Computer Science,26/10/2002
+1,ECO / 1001,Justin,Wright,Male,Economics,06/04/2002
+1,ENG / 1001,Jennifer,Daniels,Male,English,17/07/1997
+1,HIS / 1001,James,Jones,Female,History,26/12/2000
+1,MAT / 1001,Barbara,Thompson,Male,Mathematics,07/03/1997
+1,PHY / 1001,Cole,Watkins,Female,Physics,07/11/2000
+1,POL / 1001,Stephen,Carter,Female,Political Science,29/09/1998
+1,PSY / 1001,Jill,Tran,Female,Psychology,14/03/2001
+2,BIO / 1002,Michael,Dorsey,Male,Biology,13/04/2002
+2,CHE / 1002,Ernest,Thompson,Female,Chemistry,01/09/2000
+2,COM / 1002,Sarah,Boyd,Female,Computer Science,15/10/1996
+2,ECO / 1002,Benjamin,Mclean,Male,Economics,18/02/1996
+2,ENG / 1002,Janice,Wilson,Female,English,12/05/1997
+2,HIS / 1002,Robert,Mora,Female,History,06/02/1999
+2,MAT / 1002,Rachel,Mann,Female,Mathematics,15/11/1999
+2,PHY / 1002,Lisa,Robinson,Female,Physics,26/07/2001
+2,POL / 1002,Paul,Collier,Male,Political Science,12/10/1998
+2,PSY / 1002,Jacqueline,Roberts,Male,Psychology,19/02/2001
+3,BIO / 1003,Andrew,Wilson,Female,Biology,09/11/1999
+3,CHE / 1003,Brian,Butler,Female,Chemistry,24/08/2002
+3,COM / 1003,Daniel,Shepherd,Male,Computer Science,11/05/2001
+3,ECO / 1003,Amanda,Haynes,Female,Economics,22/10/2000
+3,ENG / 1003,Melissa,Walls,Male,English,01/06/2002
+3,HIS / 1003,Angela,Nelson,Female,History,11/05/2002
+3,MAT / 1003,Hannah,Brown,Female,Mathematics,23/05/1996
+3,PHY / 1003,Anthony,Bailey,Female,Physics,19/06/1999
+3,POL / 1003,Carol,Campos,Male,Political Science,04/06/1997
+3,PSY / 1003,Gregory,Hampton,Male,Psychology,13/11/1996
+4,BIO / 1004,Jennifer,Decker,Male,Biology,21/04/2000
+4,CHE / 1004,Christopher,Price,Male,Chemistry,08/03/1996
+4,COM / 1004,Kayla,Mitchell,Male,Computer Science,12/08/1998
+4,ECO / 1004,Erica,Benson,Male,Economics,23/01/2002
+4,ENG / 1004,Rachel,Hernandez,Female,English,13/11/1996
+4,HIS / 1004,Stephanie,Clark,Female,History,08/05/2000
+4,MAT / 1004,Pamela,Jackson,Male,Mathematics,10/08/1999
+4,PHY / 1004,Maria,Johnston,Male,Physics,27/04/2001
+4,POL / 1004,Catherine,Lee,Male,Political Science,08/12/2002
+4,PSY / 1004,Melissa,Bradford,Female,Psychology,29/09/1996
+5,BIO / 1005,Joyce,Vega,Female,Biology,14/08/2001
+5,CHE / 1005,Zachary,Tyler,Male,Chemistry,21/10/1997
+5,COM / 1005,Diana,Manning,Male,Computer Science,03/04/1998
+5,ECO / 1005,Roy,Moran,Female,Economics,24/07/1999
+5,ENG / 1005,Michael,Ruiz,Male,English,06/12/1999
+5,HIS / 1005,Mathew,Mendoza,Female,History,19/11/2001
+5,MAT / 1005,Jeffrey,Cohen,Female,Mathematics,01/08/2001
+5,PHY / 1005,Brandon,Zhang,Female,Physics,26/06/2000
+5,POL / 1005,James,Chung,Female,Political Science,28/01/2000
+5,PSY / 1005,Lisa,Marshall,Female,Psychology,18/04/2002
+6,BIO / 1006,Andrew,Kennedy,Male,Biology,21/10/2002
+6,CHE / 1006,William,Brady,Male,Chemistry,08/12/1996
+6,COM / 1006,Jennifer,Rivera,Female,Computer Science,10/03/1996
+6,ECO / 1006,Steven,Thomas,Female,Economics,13/08/2001
+6,ENG / 1006,Desiree,Hogan,Male,English,21/08/2001
+6,HIS / 1006,Matthew,Burns,Male,History,05/06/2002
+6,MAT / 1006,Robert,Stewart,Female,Mathematics,17/04/2000
+6,PHY / 1006,Christina,Lowery,Male,Physics,24/09/2002
+6,POL / 1006,Tiffany,Kelly,Female,Political Science,23/11/2000
+6,PSY / 1006,Jessica,Gallagher,Female,Psychology,04/10/1996
+7,BIO / 1007,Marcus,Willis,Male,Biology,03/05/2001
+7,CHE / 1007,Nicholas,Jones,Male,Chemistry,20/12/1996
+7,COM / 1007,Carlos,Thornton,Female,Computer Science,20/03/1996
+7,ECO / 1007,Matthew,Mcintosh,Male,Economics,20/03/2000
+7,ENG / 1007,Nathan,White,Female,English,03/01/1996
+7,HIS / 1007,Gabriel,Phillips,Male,History,09/01/2002
+7,MAT / 1007,Erik,Turner,Female,Mathematics,20/01/1997
+7,PHY / 1007,Stacy,Potts,Female,Physics,02/01/1998
+7,POL / 1007,Brian,Robinson,Female,Political Science,11/11/2001
+7,PSY / 1007,Laurie,Tanner,Male,Psychology,15/03/1999
+8,BIO / 1008,Richard,Hanna,Female,Biology,10/04/1999
+8,CHE / 1008,Edward,Harrison,Female,Chemistry,22/11/1998
+8,COM / 1008,Ashley,Bell,Male,Computer Science,24/05/2000
+8,ECO / 1008,Gabriel,Blake,Female,Economics,14/07/1996
+8,ENG / 1008,Paul,Galloway,Female,English,07/05/2000
+8,HIS / 1008,Peter,Wilson,Female,History,13/02/2002
+8,MAT / 1008,Michael,Jones,Female,Mathematics,10/12/1998
+8,PHY / 1008,Thomas,Melendez,Female,Physics,09/02/1998
+8,POL / 1008,Lawrence,Lin,Male,Political Science,01/06/1997
+8,PSY / 1008,Robert,Rice,Female,Psychology,12/04/2002
+9,BIO / 1009,John,Weaver,Female,Biology,13/06/2001
+9,CHE / 1009,Kimberly,Mckenzie,Female,Chemistry,23/07/2001
+9,COM / 1009,Adam,Smith,Female,Computer Science,27/01/2002
+9,ECO / 1009,Jasmine,Brown,Male,Economics,20/09/1996
+9,ENG / 1009,Tim,Schultz,Male,English,15/09/2002
+9,HIS / 1009,Mary,Young,Male,History,11/05/1998
+9,MAT / 1009,Tricia,Morales,Female,Mathematics,04/01/1999
+9,PHY / 1009,Margaret,Jensen,Male,Physics,17/06/2002
+9,POL / 1009,Joseph,Ferguson,Male,Political Science,17/12/2000
+9,PSY / 1009,Lynn,Wallace,Female,Psychology,24/01/1998
+10,BIO / 1010,Justin,Davis,Male,Biology,06/02/1997
+10,CHE / 1010,Benjamin,Johnson,Male,Chemistry,03/06/1999
+10,COM / 1010,Courtney,Lynch,Female,Computer Science,03/08/2000
+10,ECO / 1010,Paul,Adams,Male,Economics,02/08/1997
+10,ENG / 1010,Julie,Smith,Male,English,18/12/2000
+10,HIS / 1010,Matthew,Foster,Female,History,30/01/2002
+10,MAT / 1010,Veronica,Vargas,Male,Mathematics,25/12/1996
+10,PHY / 1010,Christopher,Craig,Female,Physics,10/07/1998
+10,POL / 1010,Albert,Bell,Female,Political Science,24/06/1999
+10,PSY / 1010,Angela,Porter,Male,Psychology,23/02/2000
+11,BIO / 1011,Samantha,Ryan,Female,Biology,23/12/2001
+11,CHE / 1011,Willie,Wade,Male,Chemistry,08/11/1996
+11,COM / 1011,Kimberly,Nolan,Male,Computer Science,01/01/2001
+11,ECO / 1011,Maria,Gutierrez,Female,Economics,06/12/2002
+11,ENG / 1011,Tammy,Dunn,Female,English,29/08/1999
+11,HIS / 1011,Kenneth,Pollard,Female,History,16/10/2002
+11,MAT / 1011,Victoria,Meza,Male,Mathematics,21/10/2001
+11,PHY / 1011,Glenn,Kline,Female,Physics,09/03/2002
+11,POL / 1011,Steven,Gonzalez,Male,Political Science,12/01/1997
+11,PSY / 1011,Matthew,Price,Male,Psychology,23/06/1997
+12,BIO / 1012,John,Brandt,Female,Biology,24/07/1998
+12,CHE / 1012,Lindsay,Cline,Male,Chemistry,11/07/2001
+12,COM / 1012,Rachel,Carter,Male,Computer Science,09/02/1999
+12,ECO / 1012,Hannah,Simmons,Female,Economics,01/04/1998
+12,ENG / 1012,Bobby,Good,Female,English,05/05/1998
+12,HIS / 1012,Derrick,Sanders,Female,History,30/12/1997
+12,MAT / 1012,Felicia,Robertson,Male,Mathematics,07/08/1999
+12,PHY / 1012,Amber,Harvey,Female,Physics,11/12/1997
+12,POL / 1012,Evan,Galvan,Male,Political Science,08/07/2000
+12,PSY / 1012,Jim,Mcdonald,Male,Psychology,15/01/2000
+13,BIO / 1013,Lori,Hill,Male,Biology,01/08/1997
+13,CHE / 1013,Danielle,Rowe,Female,Chemistry,18/08/1997
+13,COM / 1013,Debra,Gill,Male,Computer Science,20/09/2002
+13,ECO / 1013,Donald,Mahoney,Male,Economics,04/10/2001
+13,ENG / 1013,William,Shelton,Male,English,08/04/2002
+13,HIS / 1013,Dawn,Fischer,Male,History,28/07/2002
+13,MAT / 1013,David,Lawson,Female,Mathematics,25/04/2000
+13,PHY / 1013,Carmen,Fischer,Female,Physics,24/01/1998
+13,POL / 1013,Sherri,Watts,Female,Political Science,23/01/1996
+13,PSY / 1013,Jason,Ortiz,Female,Psychology,17/01/2000
+14,BIO / 1014,Sergio,Hernandez,Female,Biology,29/04/1999
+14,CHE / 1014,Anthony,Espinoza,Female,Chemistry,13/06/1997
+14,COM / 1014,Anna,Mcdonald,Male,Computer Science,28/12/1999
+14,ECO / 1014,Stephanie,Humphrey,Male,Economics,16/11/1999
+14,ENG / 1014,Brian,Bush,Male,English,30/08/1996
+14,HIS / 1014,Joshua,Conrad,Male,History,19/07/1997
+14,MAT / 1014,Jennifer,Thompson,Female,Mathematics,24/02/1996
+14,PHY / 1014,Denise,Zhang,Female,Physics,17/01/1998
+14,POL / 1014,Joshua,Carter,Male,Political Science,11/04/1996
+14,PSY / 1014,Tanya,Riley,Female,Psychology,07/05/2001
+15,BIO / 1015,Molly,Thomas,Male,Biology,03/03/1996
+15,CHE / 1015,Roy,Roberts,Male,Chemistry,23/10/1999
+15,COM / 1015,Karla,Kim,Male,Computer Science,11/11/1996
+15,ECO / 1015,Mitchell,Miller,Male,Economics,23/10/2001
+15,ENG / 1015,Anna,Atkinson,Female,English,09/12/1996
+15,HIS / 1015,Bradley,Weaver,Male,History,29/10/2001
+15,MAT / 1015,Pamela,Warner,Male,Mathematics,15/03/1997
+15,PHY / 1015,Mark,Ross,Male,Physics,08/09/1999
+15,POL / 1015,David,Bradley,Female,Political Science,06/06/1996
+15,PSY / 1015,Teresa,Jimenez,Female,Psychology,03/07/2000
+16,BIO / 1016,Tiffany,Valenzuela,Female,Biology,26/02/1998
+16,CHE / 1016,Victor,Campbell,Male,Chemistry,20/11/1997
+16,COM / 1016,Robert,Ramirez,Male,Computer Science,19/04/2001
+16,ECO / 1016,Christopher,Frederick,Male,Economics,05/03/1999
+16,ENG / 1016,Bryan,Melendez,Female,English,11/02/2002
+16,HIS / 1016,Ryan,Keith,Male,History,15/11/1999
+16,MAT / 1016,Derrick,Logan,Male,Mathematics,03/03/2000
+16,PHY / 1016,Daniel,Potts,Female,Physics,09/09/1999
+16,POL / 1016,Abigail,Smith,Female,Political Science,01/11/2000
+16,PSY / 1016,Gregory,Graham,Female,Psychology,23/06/1999
+17,BIO / 1017,Lindsey,Gill,Male,Biology,08/02/1996
+17,CHE / 1017,Kelly,Hansen,Female,Chemistry,15/07/1998
+17,COM / 1017,David,Weber,Male,Computer Science,29/08/1997
+17,ECO / 1017,Diane,Nelson,Male,Economics,22/02/1999
+17,ENG / 1017,Rebecca,Smith,Female,English,07/07/1996
+17,HIS / 1017,Tamara,Wilson,Male,History,27/08/2001
+17,MAT / 1017,Jason,Olson,Male,Mathematics,28/09/1997
+17,PHY / 1017,Daniel,Russell,Male,Physics,02/08/2000
+17,POL / 1017,Rachel,Valenzuela,Female,Political Science,23/10/2001
+17,PSY / 1017,Ashley,Taylor,Male,Psychology,02/12/1999
+18,BIO / 1018,George,Sparks,Male,Biology,20/11/2002
+18,CHE / 1018,Jonathan,Chavez,Male,Chemistry,08/02/2002
+18,COM / 1018,Jennifer,Jordan,Male,Computer Science,07/06/1999
+18,ECO / 1018,Kathleen,Myers,Male,Economics,16/11/2002
+18,ENG / 1018,Megan,Craig,Male,English,27/03/2001
+18,HIS / 1018,Michael,Snow,Male,History,20/01/1998
+18,MAT / 1018,Gary,Guzman,Male,Mathematics,19/01/2001
+18,PHY / 1018,Haley,Howell,Male,Physics,02/01/1997
+18,POL / 1018,James,Cox,Female,Political Science,13/08/1998
+18,PSY / 1018,Michael,Cline,Female,Psychology,11/10/2001
+19,BIO / 1019,Amanda,Knapp,Female,Biology,29/12/1999
+19,CHE / 1019,Nathaniel,Williams,Female,Chemistry,26/11/2001
+19,COM / 1019,Jennifer,Davis,Female,Computer Science,27/05/1998
+19,ECO / 1019,James,Marsh,Male,Economics,07/04/2000
+19,ENG / 1019,John,Reyes,Female,English,24/08/1997
+19,HIS / 1019,Ernest,Fitzpatrick,Female,History,05/02/2001
+19,MAT / 1019,Megan,Young,Male,Mathematics,06/01/1998
+19,PHY / 1019,Elizabeth,Brady,Female,Physics,15/01/1997
+19,POL / 1019,Nicolas,Stewart,Male,Political Science,26/06/1999
+19,PSY / 1019,Meghan,Smith,Female,Psychology,03/09/1998
+20,BIO / 1020,Edward,Dawson,Female,Biology,08/09/1997
+20,CHE / 1020,Ashley,Herring,Female,Chemistry,04/02/2002
+20,COM / 1020,Tammy,Wright,Male,Computer Science,18/02/1997
+20,ECO / 1020,Jacob,Brown,Female,Economics,15/12/1998
+20,ENG / 1020,Alexandra,Ramos,Male,English,12/02/1999
+20,HIS / 1020,Kayla,Mcclain,Female,History,08/02/1997
+20,MAT / 1020,Sherry,Harper,Female,Mathematics,11/02/2002
+20,PHY / 1020,Shane,Chambers,Male,Physics,11/04/2002
+20,POL / 1020,Crystal,Lee,Female,Political Science,20/01/1998
+20,PSY / 1020,Cynthia,Campbell,Female,Psychology,06/11/1996
+21,BIO / 1021,Krista,Coleman,Male,Biology,04/07/2000
+21,CHE / 1021,Joseph,Martin,Female,Chemistry,23/05/1998
+21,COM / 1021,Joshua,Jimenez,Female,Computer Science,05/02/1996
+21,ECO / 1021,Timothy,Ramos,Female,Economics,20/07/1998
+21,ENG / 1021,Renee,Massey,Male,English,26/11/1996
+21,HIS / 1021,Ronald,Gentry,Female,History,13/10/1997
+21,MAT / 1021,David,Roach,Male,Mathematics,07/04/2001
+21,PHY / 1021,Blake,Mendoza,Female,Physics,13/01/2001
+21,POL / 1021,John,Woods,Male,Political Science,15/06/1998
+21,PSY / 1021,Megan,Owens,Male,Psychology,03/10/1996
+22,BIO / 1022,Anna,Chavez,Female,Biology,27/05/1997
+22,CHE / 1022,Susan,Cook,Male,Chemistry,07/01/1997
+22,COM / 1022,Morgan,Johnson,Male,Computer Science,17/10/1997
+22,ECO / 1022,Jacob,Williams,Female,Economics,01/03/1998
+22,ENG / 1022,Kristen,Thompson,Female,English,08/07/2000
+22,HIS / 1022,Cynthia,Winters,Male,History,09/04/1997
+22,MAT / 1022,Jeremy,Saunders,Female,Mathematics,08/06/2000
+22,PHY / 1022,Kelsey,Reed,Female,Physics,21/07/1999
+22,POL / 1022,Melanie,Morris,Female,Political Science,28/02/1996
+22,PSY / 1022,Michael,George,Male,Psychology,11/08/2002
+23,BIO / 1023,Michael,Vasquez,Male,Biology,03/05/2002
+23,CHE / 1023,Ryan,Moore,Female,Chemistry,15/10/2002
+23,COM / 1023,Matthew,Jones,Female,Computer Science,27/10/2002
+23,ECO / 1023,George,Johnson,Female,Economics,11/03/1999
+23,ENG / 1023,Garrett,Salas,Female,English,27/04/2000
+23,HIS / 1023,Jeremiah,Padilla,Male,History,13/01/1999
+23,MAT / 1023,Peggy,Espinoza,Female,Mathematics,17/05/1996
+23,PHY / 1023,William,Bowers,Female,Physics,23/06/1997
+23,POL / 1023,Jennifer,Hancock,Male,Political Science,28/06/1999
+23,PSY / 1023,Kevin,Mays,Female,Psychology,21/11/1997
+24,BIO / 1024,Randall,Pugh,Female,Biology,18/11/1997
+24,CHE / 1024,Joseph,Rice,Male,Chemistry,24/11/2001
+24,COM / 1024,Alexis,Rivera,Female,Computer Science,10/01/1999
+24,ECO / 1024,Kristen,Brock,Male,Economics,17/01/2002
+24,ENG / 1024,Riley,Welch,Female,English,20/11/1996
+24,HIS / 1024,Kristen,Watson,Female,History,30/04/1999
+24,MAT / 1024,Thomas,Harrison,Male,Mathematics,28/09/1999
+24,PHY / 1024,Andrew,Wood,Female,Physics,02/04/1998
+24,POL / 1024,Judy,Rosales,Male,Political Science,05/07/2000
+24,PSY / 1024,Daniel,Lopez,Male,Psychology,07/12/2001
+25,BIO / 1025,Ryan,Estrada,Male,Biology,07/10/1998
+25,CHE / 1025,Megan,Bailey,Male,Chemistry,06/10/2001
+25,COM / 1025,Kenneth,Roberts,Female,Computer Science,14/06/2001
+25,ECO / 1025,Kristine,York,Male,Economics,11/02/1996
+25,ENG / 1025,Mary,Vasquez,Male,English,08/11/1998
+25,HIS / 1025,Michael,Beasley,Male,History,03/09/2001
+25,MAT / 1025,Manuel,Price,Female,Mathematics,20/02/2002
+25,PHY / 1025,John,Smith,Female,Physics,28/05/2000
+25,POL / 1025,Tyler,Rice,Male,Political Science,02/01/2002
+25,PSY / 1025,David,Oconnor,Male,Psychology,28/05/1996
+26,BIO / 1026,David,Hunter,Female,Biology,14/12/1997
+26,CHE / 1026,Heather,Mitchell,Male,Chemistry,13/08/1996
+26,COM / 1026,Matthew,Lucas,Female,Computer Science,07/01/2000
+26,ECO / 1026,Alan,Perez,Female,Economics,26/07/1996
+26,ENG / 1026,Robert,Calderon,Male,English,23/05/2000
+26,HIS / 1026,Karen,Robinson,Male,History,02/07/2002
+26,MAT / 1026,Sergio,Lyons,Female,Mathematics,02/03/1997
+26,PHY / 1026,Alejandro,Williams,Female,Physics,26/10/1996
+26,POL / 1026,Jeffrey,Davis,Female,Political Science,30/03/1999
+26,PSY / 1026,Michael,Greene,Female,Psychology,09/11/1996
+27,BIO / 1027,Sandra,Carter,Female,Biology,18/02/1998
+27,CHE / 1027,Tina,Clark,Male,Chemistry,25/12/2000
+27,COM / 1027,Christine,Taylor,Female,Computer Science,22/01/1998
+27,ECO / 1027,Devin,Christensen,Female,Economics,14/07/1999
+27,ENG / 1027,Jessica,James,Male,English,23/06/2002
+27,HIS / 1027,Gregory,Ramsey,Female,History,09/05/2000
+27,MAT / 1027,George,Johns,Female,Mathematics,03/03/1997
+27,PHY / 1027,Carolyn,Vasquez,Female,Physics,16/01/2000
+27,POL / 1027,Jeffrey,Cohen,Male,Political Science,25/11/2001
+27,PSY / 1027,Caroline,Ray,Male,Psychology,18/03/2000
+28,BIO / 1028,Heather,Jenkins,Female,Biology,21/11/2001
+28,CHE / 1028,Brianna,Weaver,Female,Chemistry,22/09/1999
+28,COM / 1028,Danny,Haynes,Female,Computer Science,18/06/2001
+28,ECO / 1028,David,Martinez,Male,Economics,09/05/1999
+28,ENG / 1028,Stephanie,Thomas,Male,English,17/04/1999
+28,HIS / 1028,Joshua,Hunt,Male,History,16/03/1998
+28,MAT / 1028,Brenda,Peterson,Male,Mathematics,10/07/1997
+28,PHY / 1028,Thomas,Barker,Male,Physics,27/12/2001
+28,POL / 1028,Charles,Cruz,Female,Political Science,09/10/2000
+28,PSY / 1028,Mark,Powers,Female,Psychology,20/04/1997
+29,BIO / 1029,Emily,Mitchell,Female,Biology,04/07/1998
+29,CHE / 1029,Mike,Martin,Male,Chemistry,09/12/1998
+29,COM / 1029,Gavin,Olson,Male,Computer Science,30/09/2002
+29,ECO / 1029,Melinda,Smith,Female,Economics,04/05/1996
+29,ENG / 1029,Kristin,Rivers,Female,English,11/11/1998
+29,HIS / 1029,Paul,Jackson,Female,History,08/12/2001
+29,MAT / 1029,Steven,Brown,Female,Mathematics,26/11/2002
+29,PHY / 1029,Christina,Alvarado,Female,Physics,17/06/1997
+29,POL / 1029,Kristina,Davies,Female,Political Science,17/01/1996
+29,PSY / 1029,Alex,Montgomery,Male,Psychology,13/06/2001
+30,BIO / 1030,Laura,Mcdonald,Male,Biology,05/05/1997
+30,CHE / 1030,Christopher,King,Male,Chemistry,24/11/2000
+30,COM / 1030,Cassandra,Watts,Male,Computer Science,08/05/1998
+30,ECO / 1030,Daniel,Frederick,Female,Economics,25/12/1998
+30,ENG / 1030,Krystal,Stevens,Male,English,16/08/1997
+30,HIS / 1030,Debbie,Larson,Male,History,26/09/1998
+30,MAT / 1030,Emma,Miller,Female,Mathematics,19/12/1997
+30,PHY / 1030,Diane,Davis,Male,Physics,30/06/2000
+30,POL / 1030,Catherine,Thomas,Male,Political Science,06/02/1998
+30,PSY / 1030,Brian,Lucero,Female,Psychology,28/08/1999
+31,BIO / 1031,Sarah,Ferguson,Female,Biology,26/02/1996
+31,CHE / 1031,David,Cummings,Male,Chemistry,02/11/1996
+31,COM / 1031,Charles,Mills,Female,Computer Science,19/10/1998
+31,ECO / 1031,Carlos,Goodman,Male,Economics,11/02/2001
+31,ENG / 1031,Heather,Mcpherson,Male,English,24/04/1999
+31,HIS / 1031,Pamela,Parker,Male,History,08/07/2002
+31,MAT / 1031,Erin,Jones,Female,Mathematics,27/10/1997
+31,PHY / 1031,Michael,Lawrence,Male,Physics,17/12/1996
+31,POL / 1031,Brianna,Acevedo,Male,Political Science,23/06/2000
+31,PSY / 1031,Rita,Rodriguez,Male,Psychology,11/06/1999
+32,BIO / 1032,Amanda,Jordan,Male,Biology,22/04/2002
+32,CHE / 1032,Susan,Mcclure,Male,Chemistry,16/01/2001
+32,COM / 1032,Karen,Hernandez,Female,Computer Science,14/03/1999
+32,ECO / 1032,Bethany,Arnold,Female,Economics,16/07/1998
+32,ENG / 1032,David,Cantrell,Female,English,01/10/1999
+32,HIS / 1032,Tami,Reid,Female,History,19/06/1999
+32,MAT / 1032,Robert,Moore,Female,Mathematics,15/08/2001
+32,PHY / 1032,Andrea,Cox,Female,Physics,02/12/1996
+32,POL / 1032,Timothy,Campbell,Male,Political Science,22/10/1998
+32,PSY / 1032,Joe,Clark,Male,Psychology,03/10/1998
+33,BIO / 1033,Julie,Bullock,Female,Biology,24/08/2002
+33,CHE / 1033,Laura,Anderson,Male,Chemistry,20/03/2000
+33,COM / 1033,Kevin,Diaz,Male,Computer Science,01/02/1996
+33,ECO / 1033,Miguel,Martinez,Male,Economics,01/12/2000
+33,ENG / 1033,Brian,Moore,Female,English,17/10/2001
+33,HIS / 1033,Lori,Sanchez,Male,History,12/08/2000
+33,MAT / 1033,Robert,Lee,Female,Mathematics,20/04/2001
+33,PHY / 1033,Rebecca,Powell,Male,Physics,09/12/1999
+33,POL / 1033,Jeffrey,Wells,Female,Political Science,20/03/1997
+33,PSY / 1033,Michael,Bray,Male,Psychology,12/06/2000
+34,BIO / 1034,Isaac,Gardner,Female,Biology,23/06/1999
+34,CHE / 1034,Robert,Snow,Male,Chemistry,23/12/1996
+34,COM / 1034,Michelle,Nichols,Female,Computer Science,28/07/2001
+34,ECO / 1034,Aaron,Wright,Male,Economics,13/11/1997
+34,ENG / 1034,John,King,Female,English,13/12/2000
+34,HIS / 1034,David,Bennett,Female,History,04/04/1996
+34,MAT / 1034,Alisha,Ortiz,Male,Mathematics,02/05/1998
+34,PHY / 1034,Melanie,Lee,Female,Physics,17/06/1998
+34,POL / 1034,Lisa,Gutierrez,Male,Political Science,11/11/2000
+34,PSY / 1034,Taylor,Hill,Female,Psychology,03/05/1996
+35,BIO / 1035,Kari,Raymond,Male,Biology,24/06/2001
+35,CHE / 1035,Megan,Perry,Male,Chemistry,20/06/2000
+35,COM / 1035,Denise,Gallegos,Female,Computer Science,15/12/2000
+35,ECO / 1035,Mark,Chambers,Female,Economics,09/08/2000
+35,ENG / 1035,John,Jones,Female,English,21/11/2000
+35,HIS / 1035,Joseph,Harris,Female,History,17/05/1999
+35,MAT / 1035,Edward,Green,Male,Mathematics,17/09/2002
+35,PHY / 1035,John,Morgan,Male,Physics,23/08/1996
+35,POL / 1035,Randall,Cole,Male,Political Science,02/06/2000
+35,PSY / 1035,Paige,Snow,Male,Psychology,01/07/2002
+36,BIO / 1036,Breanna,Bennett,Female,Biology,23/01/2000
+36,CHE / 1036,Anthony,Griffin,Female,Chemistry,30/12/2002
+36,COM / 1036,Michael,Sanchez,Female,Computer Science,15/01/1999
+36,ECO / 1036,Deborah,Davis,Male,Economics,23/04/1998
+36,ENG / 1036,Amy,Webb,Male,English,30/07/1998
+36,HIS / 1036,David,Jones,Male,History,11/03/2000
+36,MAT / 1036,Amanda,West,Male,Mathematics,26/03/2002
+36,PHY / 1036,Jeffrey,Merritt,Male,Physics,23/12/1999
+36,POL / 1036,Tina,Hansen,Female,Political Science,04/12/2001
+36,PSY / 1036,Joseph,Shah,Female,Psychology,19/04/2001
+37,BIO / 1037,Samantha,Bennett,Female,Biology,14/10/1999
+37,CHE / 1037,Emily,Hampton,Female,Chemistry,10/05/1996
+37,COM / 1037,John,James,Male,Computer Science,09/01/2002
+37,ECO / 1037,Benjamin,Moore,Male,Economics,16/09/1998
+37,ENG / 1037,Richard,Hoover,Male,English,02/10/2000
+37,HIS / 1037,Shelley,Adams,Male,History,20/08/2001
+37,MAT / 1037,Rebecca,Johnson,Female,Mathematics,20/02/1998
+37,PHY / 1037,Brandon,Bryant,Female,Physics,21/06/2001
+37,POL / 1037,Lisa,Kirk,Female,Political Science,04/12/2000
+37,PSY / 1037,Jonathan,Watkins,Male,Psychology,26/01/1999
+38,BIO / 1038,John,Torres,Male,Biology,24/05/2002
+38,CHE / 1038,Johnny,Gibson,Male,Chemistry,05/11/1999
+38,COM / 1038,Matthew,Ingram,Female,Computer Science,12/02/2002
+38,ECO / 1038,Jeremy,Todd,Female,Economics,24/05/1997
+38,ENG / 1038,Douglas,Martinez,Male,English,13/02/1999
+38,HIS / 1038,Mark,Smith,Male,History,25/06/1998
+38,MAT / 1038,Katherine,Rasmussen,Female,Mathematics,03/06/1999
+38,PHY / 1038,Suzanne,Johnston,Female,Physics,11/04/2002
+38,POL / 1038,Katie,Hensley,Female,Political Science,02/09/1998
+38,PSY / 1038,Anita,Hicks,Female,Psychology,14/08/2002
+39,BIO / 1039,Jesse,Estrada,Female,Biology,08/11/1999
+39,CHE / 1039,Kevin,Burton,Female,Chemistry,22/01/2000
+39,COM / 1039,Dana,Smith,Female,Computer Science,22/01/1996
+39,ECO / 1039,Christopher,Mcdowell,Female,Economics,05/01/1999
+39,ENG / 1039,Frank,Rosales,Female,English,12/09/1997
+39,HIS / 1039,Steven,Peck,Male,History,05/07/2002
+39,MAT / 1039,Jaime,Lynn,Male,Mathematics,12/09/1998
+39,PHY / 1039,Jeremiah,Mooney,Male,Physics,15/08/1996
+39,POL / 1039,Edward,Romero,Male,Political Science,16/12/1996
+39,PSY / 1039,Andrew,Haynes,Female,Psychology,02/04/1996
+40,BIO / 1040,David,Campbell,Female,Biology,29/05/1999
+40,CHE / 1040,Matthew,Green,Female,Chemistry,04/10/1999
+40,COM / 1040,Penny,Carroll,Male,Computer Science,23/09/1998
+40,ECO / 1040,Danielle,Francis,Male,Economics,16/04/1996
+40,ENG / 1040,Michael,Bennett,Female,English,16/11/1997
+40,HIS / 1040,Tracy,Taylor,Female,History,27/01/1996
+40,MAT / 1040,Christopher,Garcia,Male,Mathematics,03/03/1996
+40,PHY / 1040,Michelle,Davis,Male,Physics,15/12/1998
+40,POL / 1040,Tony,Jones,Male,Political Science,20/04/1997
+40,PSY / 1040,Janet,Garner,Male,Psychology,24/03/1999
+41,BIO / 1041,John,Taylor,Female,Biology,18/08/2002
+41,CHE / 1041,Jeremy,Bird,Female,Chemistry,02/09/1999
+41,COM / 1041,Debra,Wagner,Female,Computer Science,09/02/1999
+41,ECO / 1041,James,Andersen,Female,Economics,05/08/1997
+41,ENG / 1041,Brian,Turner,Female,English,09/06/2000
+41,HIS / 1041,Benjamin,Villegas,Female,History,23/06/2001
+41,MAT / 1041,Tammy,Larson,Male,Mathematics,26/10/1998
+41,PHY / 1041,Cory,Fernandez,Male,Physics,11/11/2002
+41,POL / 1041,Lauren,Hernandez,Female,Political Science,29/11/1997
+41,PSY / 1041,Susan,Pugh,Female,Psychology,08/07/1999
+42,BIO / 1042,Tiffany,Jones,Female,Biology,26/10/1997
+42,CHE / 1042,Brian,Reed,Male,Chemistry,14/12/1996
+42,COM / 1042,Patricia,Warren,Female,Computer Science,16/09/1999
+42,ECO / 1042,Jeffrey,Guerrero,Female,Economics,23/03/1996
+42,ENG / 1042,David,Torres,Male,English,03/03/1997
+42,HIS / 1042,Willie,Maldonado,Female,History,06/10/1997
+42,MAT / 1042,Amber,Austin,Male,Mathematics,25/04/1999
+42,PHY / 1042,Rebecca,Peterson,Male,Physics,15/01/2000
+42,POL / 1042,Kimberly,Wright,Female,Political Science,06/08/1996
+42,PSY / 1042,Autumn,Bailey,Male,Psychology,19/12/2002
+43,BIO / 1043,Leslie,Chang,Female,Biology,02/09/2000
+43,CHE / 1043,Crystal,Williams,Female,Chemistry,27/03/2002
+43,COM / 1043,Mark,Wright,Male,Computer Science,24/11/2001
+43,ECO / 1043,Aaron,Cruz,Female,Economics,29/05/1997
+43,ENG / 1043,Lisa,Taylor,Female,English,01/10/2000
+43,HIS / 1043,Betty,Goodwin,Male,History,28/04/1996
+43,MAT / 1043,Shane,Michael,Female,Mathematics,29/05/1998
+43,PHY / 1043,Jessica,Thornton,Male,Physics,14/02/1998
+43,POL / 1043,Jeffrey,Olsen,Female,Political Science,10/01/1999
+43,PSY / 1043,Mary,Neal,Female,Psychology,08/11/1999
+44,BIO / 1044,Dustin,Parker,Male,Biology,06/09/2002
+44,CHE / 1044,Sue,Tran,Male,Chemistry,04/06/1998
+44,COM / 1044,Andrew,Knight,Male,Computer Science,28/04/2000
+44,ECO / 1044,Katherine,Gomez,Female,Economics,05/02/2002
+44,ENG / 1044,Shannon,Estes,Female,English,19/06/2002
+44,HIS / 1044,Alexandra,Stephenson,Female,History,14/09/1998
+44,MAT / 1044,Yolanda,Moyer,Male,Mathematics,20/04/1997
+44,PHY / 1044,Dennis,Dougherty,Male,Physics,11/10/2001
+44,POL / 1044,Adam,Moran,Female,Political Science,02/12/2001
+44,PSY / 1044,Matthew,Moore,Female,Psychology,01/03/1998
+45,BIO / 1045,Veronica,Gonzales,Female,Biology,05/08/1997
+45,CHE / 1045,Thomas,Wang,Female,Chemistry,05/04/1997
+45,COM / 1045,Vanessa,Walsh,Female,Computer Science,03/05/2002
+45,ECO / 1045,Maria,Jones,Female,Economics,15/12/1997
+45,ENG / 1045,Robert,Brown,Female,English,23/01/1998
+45,HIS / 1045,Rita,Jensen,Male,History,28/02/2002
+45,MAT / 1045,Michael,Santana,Male,Mathematics,02/03/1998
+45,PHY / 1045,Crystal,Miller,Female,Physics,13/06/1999
+45,POL / 1045,Stacy,Fuentes,Female,Political Science,17/10/1999
+45,PSY / 1045,Craig,Giles,Female,Psychology,13/12/2000
+46,BIO / 1046,Laura,Campos,Male,Biology,17/12/1998
+46,CHE / 1046,Tyler,Clark,Male,Chemistry,27/06/2002
+46,COM / 1046,Sonia,Warren,Female,Computer Science,29/12/2002
+46,ECO / 1046,Angela,Freeman,Female,Economics,09/07/1998
+46,ENG / 1046,Gregory,Sandoval,Female,English,14/03/2000
+46,HIS / 1046,Aaron,Anderson,Male,History,09/02/2000
+46,MAT / 1046,Matthew,Dixon,Female,Mathematics,27/11/2002
+46,PHY / 1046,Barbara,Williams,Male,Physics,23/04/1996
+46,POL / 1046,Wesley,Brooks,Female,Political Science,17/05/1998
+46,PSY / 1046,Dana,Donaldson,Female,Psychology,17/01/2001
+47,BIO / 1047,Jeffrey,Gardner,Female,Biology,09/03/1998
+47,CHE / 1047,Mark,Lawrence,Male,Chemistry,13/07/1996
+47,COM / 1047,Michael,Brady,Female,Computer Science,28/12/1999
+47,ECO / 1047,Amanda,Johnson,Male,Economics,24/05/1996
+47,ENG / 1047,Kelly,Douglas,Female,English,12/04/1999
+47,HIS / 1047,Kevin,Donovan,Female,History,04/10/2000
+47,MAT / 1047,Tiffany,Ware,Female,Mathematics,20/02/2000
+47,PHY / 1047,Danielle,Watts,Male,Physics,28/06/1996
+47,POL / 1047,Tara,Foster,Male,Political Science,28/02/1998
+47,PSY / 1047,Vincent,Tran,Male,Psychology,30/06/2000
+48,BIO / 1048,Alyssa,Norman,Female,Biology,01/03/1996
+48,CHE / 1048,Brandon,Armstrong,Male,Chemistry,23/02/1999
+48,COM / 1048,Ernest,Mitchell,Male,Computer Science,19/08/1996
+48,ECO / 1048,Michael,Williamson,Male,Economics,15/12/2000
+48,ENG / 1048,Christie,Jimenez,Female,English,06/05/2001
+48,HIS / 1048,James,Munoz,Male,History,19/11/2000
+48,MAT / 1048,Patrick,Smith,Male,Mathematics,24/11/2002
+48,PHY / 1048,Bill,Kerr,Female,Physics,17/11/1998
+48,POL / 1048,Karen,Ross,Female,Political Science,19/07/1997
+48,PSY / 1048,Joseph,Morales,Female,Psychology,19/10/2002
+49,BIO / 1049,Krista,Mays,Female,Biology,15/03/2002
+49,CHE / 1049,Angelica,Johnson,Male,Chemistry,26/06/2001
+49,COM / 1049,Michael,Lopez,Female,Computer Science,23/10/1999
+49,ECO / 1049,Rachel,Joyce,Male,Economics,28/08/1998
+49,ENG / 1049,Jennifer,Baker,Male,English,03/04/1997
+49,HIS / 1049,Mathew,Johnson,Female,History,25/10/1998
+49,MAT / 1049,Brenda,Carlson,Male,Mathematics,05/09/2000
+49,PHY / 1049,Chase,Baker,Female,Physics,02/07/2000
+49,POL / 1049,Cindy,Williams,Female,Political Science,04/11/1997
+49,PSY / 1049,Joshua,Buckley,Male,Psychology,20/04/1996
+50,BIO / 1050,Tara,Irwin,Female,Biology,11/12/2000
+50,CHE / 1050,Melissa,Wilson,Female,Chemistry,26/05/1997
+50,COM / 1050,Samuel,Evans,Male,Computer Science,24/09/1996
+50,ECO / 1050,Justin,Davidson,Female,Economics,20/01/1996
+50,ENG / 1050,Veronica,Gates,Male,English,10/05/1996
+50,HIS / 1050,Lisa,Burgess,Female,History,17/02/1996
+50,MAT / 1050,William,Davis,Male,Mathematics,13/12/1998
+50,PHY / 1050,Sarah,Jones,Male,Physics,20/10/1997
+50,POL / 1050,Jonathan,Cline,Male,Political Science,10/01/1999
+50,PSY / 1050,Ryan,Franklin,Female,Psychology,30/11/1996
+51,BIO / 1051,Larry,Gonzalez,Male,Biology,28/07/2001
+51,CHE / 1051,Luke,Martinez,Female,Chemistry,08/08/1996
+51,COM / 1051,Steven,Gates,Male,Computer Science,19/12/2001
+51,ECO / 1051,Tyler,Johnson,Male,Economics,16/02/2001
+51,ENG / 1051,Mitchell,Carr,Male,English,02/10/2001
+51,HIS / 1051,John,Bradford,Male,History,30/01/1998
+51,MAT / 1051,Jennifer,King,Male,Mathematics,23/10/2000
+51,PHY / 1051,Richard,Ramsey,Female,Physics,28/09/2001
+51,POL / 1051,Amy,Miller,Male,Political Science,07/11/2000
+51,PSY / 1051,Drew,Lynch,Male,Psychology,25/05/2000
+52,BIO / 1052,Randy,Walker,Female,Biology,27/05/1998
+52,CHE / 1052,Sharon,Jackson,Female,Chemistry,09/06/2000
+52,COM / 1052,Jennifer,Hamilton,Male,Computer Science,21/05/1998
+52,ECO / 1052,Lori,Morris,Male,Economics,17/10/1996
+52,ENG / 1052,Ashley,Allen,Female,English,12/11/1997
+52,HIS / 1052,Mark,Booth,Male,History,28/09/1998
+52,MAT / 1052,Andrew,Jenkins,Female,Mathematics,21/12/2000
+52,PHY / 1052,Alyssa,Gonzales,Female,Physics,20/01/1996
+52,POL / 1052,Kenneth,Green,Female,Political Science,18/04/1997
+52,PSY / 1052,James,Watts,Female,Psychology,03/03/2000
+53,BIO / 1053,Cheryl,Alvarez,Male,Biology,07/09/1997
+53,CHE / 1053,Sydney,Finley,Male,Chemistry,01/11/1998
+53,COM / 1053,Marc,Fernandez,Female,Computer Science,24/10/2001
+53,ECO / 1053,Raven,Martin,Male,Economics,18/10/2001
+53,ENG / 1053,Ronald,Richardson,Female,English,11/09/1999
+53,HIS / 1053,Kristina,Melendez,Male,History,21/10/1999
+53,MAT / 1053,Elizabeth,Wilson,Female,Mathematics,29/08/1998
+53,PHY / 1053,Lauren,Woods,Male,Physics,20/01/2002
+53,POL / 1053,Marvin,Monroe,Male,Political Science,12/12/1996
+53,PSY / 1053,Sarah,Sharp,Male,Psychology,15/08/2001
+54,BIO / 1054,Kendra,Wood,Male,Biology,22/02/2000
+54,CHE / 1054,James,Hunt,Male,Chemistry,15/01/1998
+54,COM / 1054,Amanda,Ruiz,Male,Computer Science,23/10/2001
+54,ECO / 1054,Jill,Diaz,Male,Economics,01/08/1999
+54,ENG / 1054,Michelle,Hamilton,Female,English,01/07/1996
+54,HIS / 1054,Tiffany,Romero,Female,History,12/02/1998
+54,MAT / 1054,Kathy,Mcdonald,Female,Mathematics,06/08/2001
+54,PHY / 1054,Claire,Haynes,Male,Physics,16/08/2001
+54,POL / 1054,Jeffrey,Nguyen,Male,Political Science,09/05/1997
+54,PSY / 1054,Adam,Matthews,Male,Psychology,04/02/2002
+55,BIO / 1055,Rebecca,Wilcox,Female,Biology,29/09/1998
+55,CHE / 1055,Kimberly,Brooks,Female,Chemistry,09/11/2001
+55,COM / 1055,Melanie,Wheeler,Male,Computer Science,26/07/2000
+55,ECO / 1055,Crystal,Greene,Female,Economics,14/01/2001
+55,ENG / 1055,Donald,Taylor,Female,English,10/09/1998
+55,HIS / 1055,Melissa,Parsons,Female,History,22/04/1997
+55,MAT / 1055,Mallory,Hughes,Female,Mathematics,13/03/2001
+55,PHY / 1055,Martin,Griffin,Female,Physics,26/12/1997
+55,POL / 1055,Lori,Gonzalez,Male,Political Science,14/11/1999
+55,PSY / 1055,Robert,Rocha,Female,Psychology,04/05/2000
+56,BIO / 1056,Michael,Pineda,Male,Biology,29/04/2002
+56,CHE / 1056,Barry,Baldwin,Female,Chemistry,17/08/2002
+56,COM / 1056,Lawrence,Hood,Female,Computer Science,28/03/2000
+56,ECO / 1056,Natalie,Crane,Male,Economics,17/09/2001
+56,ENG / 1056,Sonia,Schmidt,Female,English,07/01/2000
+56,HIS / 1056,Carlos,Hines,Male,History,30/10/2000
+56,MAT / 1056,Angela,Johnson,Male,Mathematics,17/11/1996
+56,PHY / 1056,Laura,Hernandez,Male,Physics,04/03/1999
+56,POL / 1056,Kenneth,Mendez,Female,Political Science,13/11/2002
+56,PSY / 1056,Michaela,Young,Male,Psychology,28/07/2001
+57,BIO / 1057,Nathaniel,Jones,Male,Biology,08/03/2002
+57,CHE / 1057,Bryan,Smith,Female,Chemistry,18/10/2001
+57,COM / 1057,James,Bowers,Male,Computer Science,27/01/1998
+57,ECO / 1057,Richard,Johnson,Female,Economics,05/08/1996
+57,ENG / 1057,Zachary,Lee,Female,English,10/02/1998
+57,HIS / 1057,Natasha,Woods,Female,History,14/01/1999
+57,MAT / 1057,Jennifer,Price,Female,Mathematics,02/12/1998
+57,PHY / 1057,Marcus,Scott,Male,Physics,04/02/1996
+57,POL / 1057,April,Moses,Female,Political Science,03/12/1996
+57,PSY / 1057,William,Harris,Female,Psychology,30/01/1998
+58,BIO / 1058,Julia,Woods,Female,Biology,11/06/2001
+58,CHE / 1058,Carlos,Ward,Female,Chemistry,20/05/1996
+58,COM / 1058,Matthew,Marsh,Female,Computer Science,10/06/2001
+58,ECO / 1058,Charlene,Grant,Male,Economics,06/03/1998
+58,ENG / 1058,James,Aguilar,Female,English,12/01/2002
+58,HIS / 1058,Samantha,Boyd,Male,History,26/10/2001
+58,MAT / 1058,Patrick,Newton,Male,Mathematics,18/03/2002
+58,PHY / 1058,Shawn,Smith,Male,Physics,12/09/1996
+58,POL / 1058,Jonathan,Price,Male,Political Science,15/01/2002
+58,PSY / 1058,Jason,Stout,Female,Psychology,17/10/2002
+59,BIO / 1059,Michael,Jimenez,Female,Biology,22/02/1997
+59,CHE / 1059,Julie,Stevens,Male,Chemistry,20/06/2002
+59,COM / 1059,Robert,Sanchez,Male,Computer Science,06/11/1997
+59,ECO / 1059,Tracey,Juarez,Female,Economics,23/05/2002
+59,ENG / 1059,Jason,Case,Female,English,09/01/1998
+59,HIS / 1059,Mark,Clayton,Male,History,05/05/2000
+59,MAT / 1059,Johnny,Turner,Male,Mathematics,09/11/1996
+59,PHY / 1059,Blake,Melendez,Female,Physics,21/03/1996
+59,POL / 1059,Rebecca,Williams,Female,Political Science,25/10/1996
+59,PSY / 1059,Danielle,Taylor,Female,Psychology,03/10/1996
+60,BIO / 1060,Marie,English,Male,Biology,15/12/2002
+60,CHE / 1060,Andrew,Marquez,Male,Chemistry,20/01/2001
+60,COM / 1060,Jennifer,Jones,Male,Computer Science,04/08/1996
+60,ECO / 1060,Robert,Williams,Male,Economics,28/07/2002
+60,ENG / 1060,Barry,Ruiz,Male,English,02/03/2001
+60,HIS / 1060,Cassandra,Brown,Male,History,30/06/2000
+60,MAT / 1060,Tony,Marshall,Male,Mathematics,07/02/1996
+60,PHY / 1060,Mary,Berry,Female,Physics,02/06/1996
+60,POL / 1060,James,Hart,Male,Political Science,11/11/1996
+60,PSY / 1060,Susan,Kane,Male,Psychology,10/07/2000
+61,BIO / 1061,Jesse,Jacobson,Male,Biology,02/01/2001
+61,CHE / 1061,Steven,Aguilar,Female,Chemistry,15/08/1998
+61,COM / 1061,Tammy,Schwartz,Female,Computer Science,11/08/2002
+61,ECO / 1061,Amy,Glass,Male,Economics,06/01/2000
+61,ENG / 1061,Robert,Davis,Male,English,02/10/1999
+61,HIS / 1061,Matthew,Evans,Female,History,18/09/1998
+61,MAT / 1061,Victoria,Edwards,Male,Mathematics,17/11/2000
+61,PHY / 1061,John,Sparks,Male,Physics,18/10/1999
+61,POL / 1061,Brian,Simpson,Male,Political Science,13/12/2002
+61,PSY / 1061,Michelle,James,Female,Psychology,25/02/1997
+62,BIO / 1062,Kristen,Gilbert,Female,Biology,01/12/2002
+62,CHE / 1062,Brian,Pugh,Female,Chemistry,03/01/2000
+62,COM / 1062,William,Randall,Female,Computer Science,08/08/2000
+62,ECO / 1062,Hannah,Lewis,Male,Economics,01/03/1999
+62,ENG / 1062,Patrick,Martin,Female,English,10/04/1997
+62,HIS / 1062,Donna,Hill,Female,History,12/12/1999
+62,MAT / 1062,Dale,Chambers,Female,Mathematics,27/03/1997
+62,PHY / 1062,Christina,Williams,Male,Physics,01/03/2001
+62,POL / 1062,Edward,Johnson,Male,Political Science,25/04/2000
+62,PSY / 1062,Elizabeth,Thomas,Male,Psychology,13/08/2001
+63,BIO / 1063,Sandra,Martinez,Female,Biology,15/04/1996
+63,CHE / 1063,Melissa,Lee,Male,Chemistry,05/10/1999
+63,COM / 1063,Colleen,Lambert,Male,Computer Science,09/07/2002
+63,ECO / 1063,Frank,Schaefer,Female,Economics,27/01/1997
+63,ENG / 1063,Nicole,Booth,Male,English,23/10/1999
+63,HIS / 1063,Michael,Wise,Male,History,05/03/2001
+63,MAT / 1063,Frank,Lee,Male,Mathematics,16/04/2000
+63,PHY / 1063,Jacob,Campbell,Male,Physics,23/01/1997
+63,POL / 1063,Paul,Arellano,Female,Political Science,03/02/1996
+63,PSY / 1063,Monica,Hall,Female,Psychology,01/12/2001
+64,BIO / 1064,Carol,Robertson,Male,Biology,01/12/2001
+64,CHE / 1064,Karen,Hicks,Female,Chemistry,24/10/2001
+64,COM / 1064,Patrick,Ortiz,Male,Computer Science,16/12/1999
+64,ECO / 1064,Jonathan,Allison,Male,Economics,28/08/1997
+64,ENG / 1064,Deanna,Hernandez,Male,English,26/04/2000
+64,HIS / 1064,Cassandra,Crawford,Female,History,05/07/1998
+64,MAT / 1064,Alicia,Bright,Female,Mathematics,08/10/1999
+64,PHY / 1064,Lauren,Michael,Male,Physics,18/07/1998
+64,POL / 1064,Steven,Montgomery,Male,Political Science,19/07/2000
+64,PSY / 1064,Joshua,Burns,Male,Psychology,20/03/1999
+65,BIO / 1065,Natasha,Cantrell,Female,Biology,06/11/2000
+65,CHE / 1065,Ryan,Hanson,Male,Chemistry,26/11/2001
+65,COM / 1065,Angel,Williams,Male,Computer Science,15/08/1997
+65,ECO / 1065,Kyle,Diaz,Female,Economics,14/06/2000
+65,ENG / 1065,Donald,Leblanc,Male,English,03/07/2001
+65,HIS / 1065,Michael,Barnett,Female,History,21/07/1996
+65,MAT / 1065,Eric,Floyd,Male,Mathematics,13/03/2001
+65,PHY / 1065,Barbara,Jones,Male,Physics,16/10/1996
+65,POL / 1065,Brandon,Phillips,Female,Political Science,17/08/2000
+65,PSY / 1065,Dawn,Rivera,Female,Psychology,28/10/2000
+66,BIO / 1066,Andrew,Perez,Male,Biology,07/01/2001
+66,CHE / 1066,Amanda,Glenn,Female,Chemistry,28/07/2001
+66,COM / 1066,David,Trujillo,Male,Computer Science,21/11/1997
+66,ECO / 1066,Mary,Henderson,Male,Economics,10/02/1998
+66,ENG / 1066,Kristin,Dickerson,Male,English,04/12/1997
+66,HIS / 1066,Tracy,Adams,Male,History,25/11/2002
+66,MAT / 1066,Priscilla,Hampton,Male,Mathematics,04/09/1998
+66,PHY / 1066,Teresa,Matthews,Female,Physics,30/06/1999
+66,POL / 1066,Adam,Haynes,Female,Political Science,20/11/2002
+66,PSY / 1066,Monica,Atkins,Female,Psychology,28/11/1998
+67,BIO / 1067,Eugene,Murray,Female,Biology,17/12/1996
+67,CHE / 1067,Jerry,Rogers,Male,Chemistry,20/02/2000
+67,COM / 1067,Shawn,Johnson,Male,Computer Science,21/09/1996
+67,ECO / 1067,Vicki,Phillips,Female,Economics,29/09/2002
+67,ENG / 1067,Ricky,Conner,Female,English,12/08/1999
+67,HIS / 1067,Jennifer,Bell,Male,History,03/09/2001
+67,MAT / 1067,Robert,Massey,Female,Mathematics,22/02/1997
+67,PHY / 1067,Melissa,Benton,Female,Physics,01/09/1996
+67,POL / 1067,Michelle,Cooper,Female,Political Science,12/06/1998
+67,PSY / 1067,Monique,Smith,Male,Psychology,04/11/1997
+68,BIO / 1068,Crystal,Boone,Female,Biology,26/07/2002
+68,CHE / 1068,Ronald,Wang,Female,Chemistry,15/03/2001
+68,COM / 1068,Wesley,Flores,Female,Computer Science,07/02/1999
+68,ECO / 1068,Edward,Lopez,Male,Economics,06/02/1997
+68,ENG / 1068,David,Clark,Male,English,24/09/2002
+68,HIS / 1068,David,Keller,Male,History,06/05/2000
+68,MAT / 1068,Christine,Becker,Female,Mathematics,05/10/2002
+68,PHY / 1068,Jeffrey,Jones,Female,Physics,02/11/2000
+68,POL / 1068,Christopher,Sandoval,Female,Political Science,11/03/1996
+68,PSY / 1068,Tara,Smith,Male,Psychology,24/04/1998
+69,BIO / 1069,Daniel,Robinson,Female,Biology,29/07/1997
+69,CHE / 1069,Amanda,Rivera,Male,Chemistry,15/08/2002
+69,COM / 1069,Alexander,Curtis,Female,Computer Science,03/07/1996
+69,ECO / 1069,Victoria,Brown,Female,Economics,29/07/1999
+69,ENG / 1069,Spencer,Robinson,Female,English,24/01/2000
+69,HIS / 1069,Hailey,Martin,Male,History,14/10/2001
+69,MAT / 1069,Kathryn,Johnson,Female,Mathematics,12/10/1996
+69,PHY / 1069,Zachary,Everett,Male,Physics,17/03/2001
+69,POL / 1069,Jennifer,Miller,Female,Political Science,14/10/2000
+69,PSY / 1069,Melissa,Kelly,Male,Psychology,16/12/2000
+70,BIO / 1070,William,Scott,Male,Biology,30/01/1998
+70,CHE / 1070,Taylor,Sawyer,Female,Chemistry,14/02/1996
+70,COM / 1070,Michael,Johnston,Female,Computer Science,08/07/1996
+70,ECO / 1070,Ricardo,Snyder,Male,Economics,03/05/2000
+70,ENG / 1070,Diane,Santiago,Female,English,15/08/1999
+70,HIS / 1070,Felicia,Dyer,Female,History,07/07/1996
+70,MAT / 1070,Deanna,Moore,Female,Mathematics,05/10/2002
+70,PHY / 1070,Michelle,Ayers,Female,Physics,13/07/2000
+70,POL / 1070,Timothy,Avery,Female,Political Science,30/03/1997
+70,PSY / 1070,James,Gallagher,Male,Psychology,17/09/1998
+71,BIO / 1071,Susan,Fuentes,Female,Biology,14/03/1997
+71,CHE / 1071,Daniel,Martinez,Female,Chemistry,18/05/1997
+71,COM / 1071,Amy,Herrera,Male,Computer Science,16/01/2001
+71,ECO / 1071,Jason,Knight,Female,Economics,05/11/1997
+71,ENG / 1071,Jennifer,Nielsen,Male,English,03/05/2000
+71,HIS / 1071,Amanda,Taylor,Male,History,29/03/2000
+71,MAT / 1071,Julia,Mathews,Male,Mathematics,26/05/1998
+71,PHY / 1071,Kathryn,Mcintyre,Female,Physics,15/07/1996
+71,POL / 1071,Mary,Cole,Female,Political Science,20/07/2002
+71,PSY / 1071,Elizabeth,Johnson,Male,Psychology,07/09/2002
+72,BIO / 1072,George,Sandoval,Female,Biology,14/05/1999
+72,CHE / 1072,Aimee,Scott,Male,Chemistry,18/07/2002
+72,COM / 1072,Vincent,Chambers,Female,Computer Science,14/11/1997
+72,ECO / 1072,Benjamin,Moore,Male,Economics,28/08/1996
+72,ENG / 1072,Kaylee,Mcdonald,Male,English,17/05/2000
+72,HIS / 1072,Sonya,Salas,Male,History,03/08/1998
+72,MAT / 1072,Jonathan,Avila,Male,Mathematics,29/01/2000
+72,PHY / 1072,Shawn,Hanna,Male,Physics,25/04/2000
+72,POL / 1072,Stephanie,Riley,Male,Political Science,08/08/1998
+72,PSY / 1072,Valerie,Rosales,Female,Psychology,01/06/2001
+73,BIO / 1073,Tiffany,Wright,Male,Biology,01/09/1999
+73,CHE / 1073,Jessica,White,Male,Chemistry,22/03/2000
+73,COM / 1073,Jade,Gibson,Male,Computer Science,24/10/2001
+73,ECO / 1073,Amy,Davis,Male,Economics,11/12/2002
+73,ENG / 1073,Michael,Dixon,Male,English,18/11/2002
+73,HIS / 1073,Wendy,Smith,Male,History,28/02/1998
+73,MAT / 1073,William,Crane,Male,Mathematics,05/12/2000
+73,PHY / 1073,Mark,Nelson,Male,Physics,04/02/2002
+73,POL / 1073,Alejandra,King,Female,Political Science,11/06/1996
+73,PSY / 1073,Ronald,Garza,Male,Psychology,08/06/1998
+74,BIO / 1074,Patrick,Hall,Female,Biology,16/04/2000
+74,CHE / 1074,David,Newman,Female,Chemistry,13/03/2001
+74,COM / 1074,Gina,Johnson,Female,Computer Science,28/10/2002
+74,ECO / 1074,Karen,Sloan,Male,Economics,24/01/1997
+74,ENG / 1074,Amy,Moore,Female,English,20/02/1999
+74,HIS / 1074,Kyle,Tucker,Male,History,08/06/1999
+74,MAT / 1074,Amber,Gill,Male,Mathematics,17/08/2001
+74,PHY / 1074,Eric,Leblanc,Female,Physics,28/03/1997
+74,POL / 1074,Daniel,Ford,Male,Political Science,12/10/2002
+74,PSY / 1074,Daniel,Clark,Female,Psychology,03/01/1996
+75,BIO / 1075,Michael,Jenkins,Female,Biology,07/09/2002
+75,CHE / 1075,Lucas,Patterson,Male,Chemistry,26/07/1997
+75,COM / 1075,Gary,Miller,Male,Computer Science,05/09/1999
+75,ECO / 1075,Michelle,Nicholson,Female,Economics,18/11/1997
+75,ENG / 1075,Michelle,Johnson,Female,English,03/06/2000
+75,HIS / 1075,Anthony,Mora,Male,History,21/12/1997
+75,MAT / 1075,Stephen,White,Male,Mathematics,07/06/1997
+75,PHY / 1075,Diana,Gilmore,Female,Physics,15/04/1996
+75,POL / 1075,Timothy,Page,Female,Political Science,15/04/1996
+75,PSY / 1075,Jesse,Dennis,Male,Psychology,11/02/2001
+76,BIO / 1076,Stephanie,Jones,Male,Biology,08/12/1998
+76,CHE / 1076,Megan,Gray,Female,Chemistry,03/06/1999
+76,COM / 1076,Edward,Gonzalez,Female,Computer Science,15/11/2002
+76,ECO / 1076,Elizabeth,Porter,Male,Economics,02/09/1997
+76,ENG / 1076,Emily,Torres,Male,English,10/07/1997
+76,HIS / 1076,Aaron,Butler,Female,History,10/01/2002
+76,MAT / 1076,Diane,Jennings,Female,Mathematics,16/09/2000
+76,PHY / 1076,Susan,Nicholson,Male,Physics,24/11/2000
+76,POL / 1076,Brandon,Johnston,Female,Political Science,25/03/2001
+76,PSY / 1076,Jeffrey,Douglas,Male,Psychology,28/05/1997
+77,BIO / 1077,Amanda,Baker,Male,Biology,21/06/1998
+77,CHE / 1077,Sara,Johnson,Female,Chemistry,07/06/2000
+77,COM / 1077,Jodi,Ellison,Male,Computer Science,28/11/2000
+77,ECO / 1077,Ronnie,Clark,Female,Economics,04/02/2002
+77,ENG / 1077,Timothy,Mccoy,Male,English,25/05/1998
+77,HIS / 1077,Kristi,Gibson,Male,History,11/07/1998
+77,MAT / 1077,Carol,Raymond,Male,Mathematics,02/08/1999
+77,PHY / 1077,Chelsea,Yang,Female,Physics,24/04/2000
+77,POL / 1077,Stacey,Chan,Female,Political Science,23/01/2000
+77,PSY / 1077,Brian,Jackson,Male,Psychology,24/07/1996
+78,BIO / 1078,Christopher,Ramirez,Female,Biology,08/12/1998
+78,CHE / 1078,Aimee,Hall,Female,Chemistry,25/03/2002
+78,COM / 1078,Mary,Montgomery,Female,Computer Science,22/04/1999
+78,ECO / 1078,Eric,Lawrence,Female,Economics,09/04/2000
+78,ENG / 1078,Katrina,Key,Female,English,24/09/1999
+78,HIS / 1078,Donald,Harrison,Female,History,25/03/1996
+78,MAT / 1078,Jamie,Garcia,Female,Mathematics,02/08/1999
+78,PHY / 1078,Deanna,Guzman,Female,Physics,23/02/2002
+78,POL / 1078,Michael,Garza,Female,Political Science,02/05/1998
+78,PSY / 1078,Christopher,Rojas,Male,Psychology,16/10/2001
+79,BIO / 1079,Kara,Tucker,Male,Biology,04/01/1997
+79,CHE / 1079,Douglas,Ingram,Male,Chemistry,18/05/1999
+79,COM / 1079,Charles,Carter,Female,Computer Science,25/05/2001
+79,ECO / 1079,Philip,Hicks,Male,Economics,02/11/1996
+79,ENG / 1079,Amanda,Smith,Female,English,13/01/1996
+79,HIS / 1079,Isaac,Edwards,Male,History,25/05/1999
+79,MAT / 1079,Derek,Joseph,Female,Mathematics,14/10/1998
+79,PHY / 1079,Andrea,Guerrero,Female,Physics,20/03/1997
+79,POL / 1079,Cindy,Khan,Female,Political Science,03/10/2002
+79,PSY / 1079,Stephen,Middleton,Female,Psychology,22/05/1996
+80,BIO / 1080,Aaron,Ryan,Male,Biology,02/09/2002
+80,CHE / 1080,Troy,Waters,Female,Chemistry,05/03/1996
+80,COM / 1080,Rebecca,Dominguez,Female,Computer Science,25/09/2001
+80,ECO / 1080,Megan,Stanley,Male,Economics,20/09/1999
+80,ENG / 1080,Lucas,Norton,Female,English,13/12/2002
+80,HIS / 1080,Katrina,Scott,Female,History,22/11/2001
+80,MAT / 1080,James,Thomas,Female,Mathematics,28/11/2002
+80,PHY / 1080,David,Daugherty,Female,Physics,10/10/1996
+80,POL / 1080,Cody,Lee,Male,Political Science,24/01/2000
+80,PSY / 1080,Bob,Robbins,Female,Psychology,12/12/1997
+81,BIO / 1081,James,Martinez,Female,Biology,06/06/2000
+81,CHE / 1081,Nancy,Farmer,Female,Chemistry,02/03/1999
+81,COM / 1081,Austin,Hebert,Male,Computer Science,22/03/2002
+81,ECO / 1081,Keith,Henderson,Female,Economics,10/08/1999
+81,ENG / 1081,Melissa,Erickson,Male,English,26/11/2000
+81,HIS / 1081,Margaret,Sutton,Female,History,19/04/1998
+81,MAT / 1081,Nicole,Park,Male,Mathematics,23/03/1999
+81,PHY / 1081,James,Nguyen,Male,Physics,09/09/1998
+81,POL / 1081,Robert,Frazier,Male,Political Science,19/07/2000
+81,PSY / 1081,Shelby,Quinn,Female,Psychology,15/07/1997
+82,BIO / 1082,Brooke,Patel,Female,Biology,30/07/2001
+82,CHE / 1082,Gregory,Ryan,Male,Chemistry,20/02/1999
+82,COM / 1082,Steven,Hoffman,Male,Computer Science,25/09/1997
+82,ECO / 1082,Cameron,Watkins,Female,Economics,29/07/2002
+82,ENG / 1082,Katie,Clark,Male,English,19/04/1999
+82,HIS / 1082,Melissa,Stone,Female,History,01/09/2002
+82,MAT / 1082,Alan,Oliver,Female,Mathematics,28/12/1999
+82,PHY / 1082,Diana,Torres,Male,Physics,29/01/2002
+82,POL / 1082,Betty,Gardner,Male,Political Science,28/02/1999
+82,PSY / 1082,Anthony,Smith,Female,Psychology,04/08/2002
+83,BIO / 1083,Mark,Castillo,Male,Biology,26/08/1999
+83,CHE / 1083,Deanna,Green,Female,Chemistry,19/05/1998
+83,COM / 1083,Stephen,Lopez,Female,Computer Science,04/10/1997
+83,ECO / 1083,Paul,Manning,Female,Economics,14/05/1997
+83,ENG / 1083,Dylan,Porter,Male,English,03/06/2001
+83,HIS / 1083,Latoya,Perez,Female,History,19/01/2002
+83,MAT / 1083,Jennifer,Wilson,Male,Mathematics,30/05/1996
+83,PHY / 1083,Robert,Johnson,Female,Physics,02/10/1996
+83,POL / 1083,Kimberly,Dickerson,Male,Political Science,08/11/2001
+83,PSY / 1083,Adam,Johnson,Male,Psychology,06/12/1996
+84,BIO / 1084,Joshua,Abbott,Male,Biology,02/04/2000
+84,CHE / 1084,Daniel,Walton,Female,Chemistry,07/02/1997
+84,COM / 1084,Tina,Crawford,Male,Computer Science,07/02/1997
+84,ECO / 1084,John,Johnson,Male,Economics,08/12/2000
+84,ENG / 1084,Patricia,Espinoza,Male,English,07/02/1997
+84,HIS / 1084,Carrie,Pollard,Male,History,04/06/1998
+84,MAT / 1084,Joseph,Daniel,Female,Mathematics,06/04/2000
+84,PHY / 1084,Alvin,Newman,Female,Physics,11/08/1997
+84,POL / 1084,Elizabeth,Brown,Female,Political Science,22/11/2000
+84,PSY / 1084,David,Ramirez,Female,Psychology,26/06/1999
+85,BIO / 1085,Charles,Anderson,Male,Biology,25/03/1999
+85,CHE / 1085,Preston,Berry,Male,Chemistry,27/02/1999
+85,COM / 1085,Joan,Dominguez,Female,Computer Science,10/05/1996
+85,ECO / 1085,Marc,Harris,Female,Economics,29/05/1998
+85,ENG / 1085,Jonathan,Harrison,Female,English,18/10/2001
+85,HIS / 1085,Robert,Henderson,Male,History,27/08/2001
+85,MAT / 1085,Katie,Herring,Male,Mathematics,30/12/1999
+85,PHY / 1085,Scott,Richardson,Male,Physics,12/06/1996
+85,POL / 1085,Shawna,Meyers,Female,Political Science,18/05/1998
+85,PSY / 1085,Michael,Mitchell,Male,Psychology,15/11/1999
+86,BIO / 1086,Jonathan,Yates,Female,Biology,07/07/2002
+86,CHE / 1086,Erin,Hendrix,Female,Chemistry,02/08/2001
+86,COM / 1086,Ebony,Hunt,Female,Computer Science,15/03/1999
+86,ECO / 1086,Jennifer,Lee,Male,Economics,01/03/1996
+86,ENG / 1086,Lisa,Meyer,Male,English,18/09/1999
+86,HIS / 1086,Chelsea,Russell,Female,History,24/03/1996
+86,MAT / 1086,Michael,Henry,Female,Mathematics,01/02/1999
+86,PHY / 1086,Donald,Castro,Female,Physics,06/05/2000
+86,POL / 1086,Tiffany,Cunningham,Female,Political Science,14/05/1996
+86,PSY / 1086,Amber,Sanchez,Female,Psychology,19/10/2001
+87,BIO / 1087,Emily,Harris,Female,Biology,02/04/2002
+87,CHE / 1087,Jessica,Irwin,Male,Chemistry,03/09/1996
+87,COM / 1087,Kimberly,Lozano,Male,Computer Science,20/01/2001
+87,ECO / 1087,Justin,Walker,Male,Economics,27/10/1996
+87,ENG / 1087,Evelyn,Adams,Male,English,16/09/2002
+87,HIS / 1087,Elizabeth,Stone,Female,History,02/10/2000
+87,MAT / 1087,Joshua,Ramos,Male,Mathematics,17/08/1996
+87,PHY / 1087,Harry,Martinez,Male,Physics,13/02/2002
+87,POL / 1087,Cindy,Martinez,Male,Political Science,24/02/2000
+87,PSY / 1087,Ricky,Watson,Male,Psychology,21/04/2002
+88,BIO / 1088,Dawn,Walters,Male,Biology,17/01/1999
+88,CHE / 1088,Linda,Morris,Male,Chemistry,24/06/2002
+88,COM / 1088,Brandon,Martin,Male,Computer Science,26/03/1998
+88,ECO / 1088,Chase,Moran,Male,Economics,14/02/1999
+88,ENG / 1088,Jamie,Whitney,Female,English,05/06/1999
+88,HIS / 1088,Melissa,Brooks,Male,History,13/04/2001
+88,MAT / 1088,Charles,Terry,Male,Mathematics,27/01/1998
+88,PHY / 1088,Kristin,Potts,Male,Physics,23/10/2002
+88,POL / 1088,Charlotte,Young,Female,Political Science,18/03/1996
+88,PSY / 1088,Jennifer,Lawson,Female,Psychology,22/01/1998
+89,BIO / 1089,Julia,Allen,Male,Biology,09/07/1997
+89,CHE / 1089,Samantha,Jefferson,Female,Chemistry,24/10/1998
+89,COM / 1089,Timothy,Washington,Female,Computer Science,19/06/1998
+89,ECO / 1089,Bryan,Jones,Female,Economics,16/03/1996
+89,ENG / 1089,Steven,Allen,Female,English,29/03/2000
+89,HIS / 1089,Kim,Hubbard,Female,History,07/09/1997
+89,MAT / 1089,Steven,Hall,Male,Mathematics,29/01/2001
+89,PHY / 1089,Crystal,Hunter,Female,Physics,25/04/2000
+89,POL / 1089,Daniel,Mathews,Male,Political Science,18/03/2000
+89,PSY / 1089,Lisa,Gonzalez,Female,Psychology,29/01/1998
+90,BIO / 1090,Rachel,Johnson,Male,Biology,25/09/1998
+90,CHE / 1090,Jennifer,Randall,Female,Chemistry,27/03/1997
+90,COM / 1090,Robert,Paul,Male,Computer Science,02/09/1998
+90,ECO / 1090,Sue,Skinner,Female,Economics,02/05/1998
+90,ENG / 1090,Daniel,Gray,Male,English,21/01/1998
+90,HIS / 1090,Shannon,Palmer,Female,History,01/01/2000
+90,MAT / 1090,Steven,Krause,Male,Mathematics,23/05/1996
+90,PHY / 1090,Lisa,Porter,Female,Physics,16/04/2001
+90,POL / 1090,David,Griffin,Male,Political Science,30/01/2000
+90,PSY / 1090,Daniel,Nolan,Male,Psychology,22/02/1997
+91,BIO / 1091,David,Molina,Male,Biology,08/04/1998
+91,CHE / 1091,Teresa,George,Female,Chemistry,28/07/2001
+91,COM / 1091,Sarah,Arias,Male,Computer Science,21/08/2000
+91,ECO / 1091,Angela,Miller,Female,Economics,01/05/1999
+91,ENG / 1091,Alexander,Phillips,Male,English,13/12/1999
+91,HIS / 1091,Evan,Gonzalez,Male,History,07/10/1996
+91,MAT / 1091,Tina,Olsen,Male,Mathematics,22/05/1999
+91,PHY / 1091,Jonathan,Pearson,Female,Physics,24/04/1998
+91,POL / 1091,Sarah,Cooley,Male,Political Science,05/07/1997
+91,PSY / 1091,David,Austin,Female,Psychology,05/11/2001
+92,BIO / 1092,Emily,Sullivan,Male,Biology,29/03/1996
+92,CHE / 1092,James,Brown,Female,Chemistry,02/01/1999
+92,COM / 1092,Lauren,Blackwell,Female,Computer Science,07/01/2002
+92,ECO / 1092,Lindsey,Pearson,Female,Economics,18/12/2000
+92,ENG / 1092,Nicholas,Freeman,Female,English,02/08/2000
+92,HIS / 1092,Nina,Li,Female,History,13/03/2000
+92,MAT / 1092,Christopher,Jordan,Female,Mathematics,18/01/1999
+92,PHY / 1092,Wesley,Sullivan,Male,Physics,21/12/2002
+92,POL / 1092,Meredith,Leonard,Female,Political Science,15/06/2001
+92,PSY / 1092,Morgan,Grant,Male,Psychology,11/04/1997
+93,BIO / 1093,Paige,Oliver,Female,Biology,02/11/2001
+93,CHE / 1093,Alyssa,Daniel,Male,Chemistry,18/05/1998
+93,COM / 1093,Angela,Valdez,Male,Computer Science,05/07/1997
+93,ECO / 1093,Brian,Ryan,Male,Economics,18/10/2000
+93,ENG / 1093,James,Mccarty,Male,English,28/05/1999
+93,HIS / 1093,Mary,Thomas,Male,History,13/06/1996
+93,MAT / 1093,Margaret,Meyers,Male,Mathematics,16/06/2000
+93,PHY / 1093,Melissa,Deleon,Female,Physics,18/10/1996
+93,POL / 1093,Donna,Abbott,Male,Political Science,10/02/2000
+93,PSY / 1093,Amy,Simmons,Female,Psychology,29/05/1999
+94,BIO / 1094,Jessica,Barton,Female,Biology,11/11/2001
+94,CHE / 1094,Tyler,Castillo,Male,Chemistry,05/01/1996
+94,COM / 1094,Chad,Cooley,Male,Computer Science,29/05/1998
+94,ECO / 1094,Joshua,Graves,Female,Economics,06/08/2001
+94,ENG / 1094,Jeffery,Contreras,Female,English,17/09/1999
+94,HIS / 1094,Danielle,Allen,Male,History,15/09/1997
+94,MAT / 1094,Richard,Thompson,Male,Mathematics,14/05/2002
+94,PHY / 1094,Douglas,Fletcher,Female,Physics,03/03/1999
+94,POL / 1094,Danielle,Martin,Female,Political Science,23/11/2002
+94,PSY / 1094,Ana,Johnson,Female,Psychology,05/05/1998
+95,BIO / 1095,Melinda,Huerta,Male,Biology,23/08/2002
+95,CHE / 1095,John,Johnson,Female,Chemistry,08/10/2001
+95,COM / 1095,Melissa,Green,Female,Computer Science,05/11/1999
+95,ECO / 1095,Wendy,Scott,Male,Economics,25/12/2000
+95,ENG / 1095,Daniel,Reed,Female,English,07/05/2001
+95,HIS / 1095,Sandra,Holmes,Female,History,05/09/1998
+95,MAT / 1095,Paul,Lee,Male,Mathematics,13/12/2000
+95,PHY / 1095,Ronald,Vazquez,Female,Physics,17/04/2001
+95,POL / 1095,Jessica,Suarez,Female,Political Science,07/02/1999
+95,PSY / 1095,Samantha,Stephens,Female,Psychology,02/09/1999
+96,BIO / 1096,James,Adams,Male,Biology,14/03/2002
+96,CHE / 1096,Lisa,Gross,Male,Chemistry,30/05/1997
+96,COM / 1096,Catherine,Maldonado,Female,Computer Science,13/12/1997
+96,ECO / 1096,Andrew,Hill,Female,Economics,21/06/2002
+96,ENG / 1096,Gary,Browning,Male,English,02/03/1999
+96,HIS / 1096,Nathan,Baldwin,Male,History,06/09/1996
+96,MAT / 1096,Christopher,Orr,Female,Mathematics,29/03/2002
+96,PHY / 1096,Jose,White,Male,Physics,10/06/1996
+96,POL / 1096,Damon,Ayala,Male,Political Science,26/07/1998
+96,PSY / 1096,Carla,Henderson,Female,Psychology,28/06/1999
+97,BIO / 1097,Brianna,Wheeler,Female,Biology,02/03/2001
+97,CHE / 1097,Lisa,Moore,Female,Chemistry,13/03/1999
+97,COM / 1097,Hannah,Jackson,Female,Computer Science,26/01/2002
+97,ECO / 1097,Theresa,Brown,Female,Economics,12/09/2000
+97,ENG / 1097,Connie,Sparks,Female,English,05/04/2000
+97,HIS / 1097,Shelley,Cooper,Male,History,27/02/2002
+97,MAT / 1097,Kaitlyn,Murphy,Male,Mathematics,09/04/1997
+97,PHY / 1097,Joseph,Reynolds,Male,Physics,03/10/1997
+97,POL / 1097,Megan,Greene,Male,Political Science,24/08/1997
+97,PSY / 1097,Stephen,Manning,Male,Psychology,14/04/2000
+98,BIO / 1098,David,Jackson,Female,Biology,13/06/2001
+98,CHE / 1098,Kevin,Douglas,Male,Chemistry,16/09/2002
+98,COM / 1098,Julie,Meyers,Male,Computer Science,10/08/1998
+98,ECO / 1098,Michelle,Sherman,Female,Economics,21/01/2001
+98,ENG / 1098,Melissa,Carter,Female,English,29/04/1998
+98,HIS / 1098,David,Lee,Female,History,06/08/1997
+98,MAT / 1098,Zachary,Brewer,Female,Mathematics,07/06/1997
+98,PHY / 1098,Joseph,Gonzalez,Male,Physics,09/06/1996
+98,POL / 1098,John,Jackson,Female,Political Science,05/11/2002
+98,PSY / 1098,Brenda,Williams,Female,Psychology,30/07/2001
+99,BIO / 1099,Larry,Vazquez,Male,Biology,06/02/2000
+99,CHE / 1099,Isabel,Dorsey,Female,Chemistry,09/05/1999
+99,COM / 1099,Nathan,Simmons,Female,Computer Science,13/01/1998
+99,ECO / 1099,Nicole,Foster,Female,Economics,30/09/1996
+99,ENG / 1099,Sergio,King,Male,English,04/02/2001
+99,HIS / 1099,Justin,Kelly,Female,History,13/05/2001
+99,MAT / 1099,Kenneth,Aguirre,Female,Mathematics,01/12/1997
+99,PHY / 1099,Nina,Gonzales,Female,Physics,07/09/2001
+99,POL / 1099,Darius,Trevino,Male,Political Science,11/05/1999
+99,PSY / 1099,Dylan,Henson,Male,Psychology,04/03/1997
+100,BIO / 1100,Lisa,Maynard,Female,Biology,11/10/1997
+100,CHE / 1100,Joanna,Lee,Male,Chemistry,20/01/1996
+100,COM / 1100,Amber,Mcdaniel,Female,Computer Science,16/12/2000
+100,ECO / 1100,Nicholas,Morris,Male,Economics,05/05/2000
+100,ENG / 1100,Wendy,Jones,Female,English,03/01/1997
+100,HIS / 1100,James,Jackson,Male,History,01/02/1999
+100,MAT / 1100,Jennifer,Thompson,Female,Mathematics,21/05/1999
+100,PHY / 1100,Michael,Smith,Female,Physics,09/10/2002
+100,POL / 1100,Catherine,Hart,Male,Political Science,24/03/1997
+100,PSY / 1100,Johnathan,Lopez,Male,Psychology,27/11/1999
