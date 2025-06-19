@@ -1,4 +1,24 @@
 # Analysis-of-Factors-Influencing-Final-Year-Student-Grade
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Aim and Objectives](#aim-and-objectives)
+  - [Aim](#aim)
+  - [Objectives](#objectives)
+- [Problem Statement](#problem-statement)
+- [Process](#process)
+  - [Data Collection](#data-collection)
+  - [Data Preparation](#data-preparation)
+  - [Dashboard Development](#dashboard-development)
+  - [Insight Generation](#insight-generation)
+  - [Recommendation](#recommendation)
+- [Tools Used](#tools-used)
+- [Key Insights](#key-insights)
+  - [Overview Dashboard](#overview-dashboard)
+  - [Courses View Dashboard](#courses-view)
+  - [Lecturers View Dashboard](#lecturers-view)
+  - [Student View Dashboard](#student-view)
+- [Challenges](#challenges)
+- [Recommendation](#recommendation)
 ## Project Overview
 This project explores key factors that influence final-year students’ CGPA using a simulated dataset comprising 1,000 students, 493 courses, and 100 lecturers across 10 departments. The analysis was conducted using Power BI, SQL, Power Query, and Excel.
 By analyzing data across departments, lecturers, courses, and student demographics, the project delivers actionable insights aimed at enhancing academic outcomes and institutional performance. The dashboards created provide stakeholders with a comprehensive view of performance trends, challenges, and opportunities for improvement in tertiary institutions.
@@ -14,16 +34,21 @@ To identify and analyze the key factors influencing final-year students’ CGPA 
 ## Problem Statement
 Many institutions face challenges in understanding the specific factors that contribute to variations in students’ academic performance. Without data-driven insights, interventions may be ineffective or misdirected. This project addresses the problem by analyzing structured student, lecturer, and course data to uncover patterns influencing final-year CGPA, with the goal of boosting institutional academic performance.
 ## Process
-- Data Gathering:
-	•	Simulated dataset of 1,000 students, 100 lecturers, 493 courses across 10 departments.
-- Data Preparation:
-	•	Cleaned and structured data for use in Power BI.
-- Dashboard Development:
-	•	Designed interactive dashboards by department, course, lecturer, and student.
-- Insight Generation:
-	•	Extracted patterns related to failure rates, course types, lecturer experience, and student demographics.
-- Recommendation
-	•	Formulated actionable suggestions to improve academic performance institution-wide.
+ - #### Data Collection:  
+This dataset was provided as part of a real-world academic project. It contains authentic records sourced directly from an institution’s database and compiled by the project coordinator for analysis purposes.
+The data includes:
+	•	1,000 students
+	•	100 lecturers
+	•	493 courses
+	•	Distributed across 10 academic departments
+- #### Data Preparation:
+The data was cleaned, structured, and integrated from multiple related tables using common keys (such as student ID, course code, and department ID). This process ensured consistency and enabled the creation of a reliable data model for analysis in Power BI. The cleaned dataset was then loaded into Power BI for further transformation, visualization, and insight generation.
+- #### Dashboard Development:
+Designed and developed interactive dashboards to visualize departmental performance, course statistics, lecturer workloads, and student data. 
+- #### Insight Generation:
+Extracted patterns related to failure rates, course types, lecturer experience, and student demographics.
+- #### Recommendation
+Formulated actionable suggestions to improve academic performance institution-wide.
 ## Tools Used 
 - Power BI Desktop: Used to develop interactive dashboards and perform data modeling for clear and insightful visualizations.
 - Microsoft Excel:  Employed for preliminary data review, formatting, and preparation before import into Power BI.
@@ -37,7 +62,7 @@ Many institutions face challenges in understanding the specific factors that con
 - Top departments include Psychology (3.47) and History (3.44–3.45).
 - Departments like Mathematics (3.39) and Computer Science (3.40) performed below the average.
 - CGPA remains fairly stable across semesters, with minor fluctuations, indicating consistency in academic standards.
-#### Courses View
+#### Courses View 
 - Courses are mostly in 3-unit and 4-unit formats; 3-unit courses recorded better student performance.
 - Top Ten Failed Courses include:
 - HIS 2828, MAT 4646, BIO 909, COM 2424, and ECO 2121 – each failed by 11–13 students.
@@ -62,7 +87,7 @@ Many institutions face challenges in understanding the specific factors that con
 	•	Top Students by Department:
 	•	Highest-performing students are spread across departments, e.g., JOHN JOHNSON (Economics) – CGPA: 4.10, JASON STOUT (Psychology) – CGPA: 4.04.
 - CGPA by Age:
-	•	Age 24 recorded the highest average CGPA, suggesting optimal academic maturity/performance.
+Students aged 24 had the highest average CGPA, indicating a possible peak in academic maturity and performance at that age.
 ## Challenges
 - High failure rates: Over 900 students failed one or more courses.
 - Uniform course registration across departments with little room for elective flexibility.
