@@ -1,0 +1,501 @@
+﻿No.,Course Code,Course Title,Level/Semester,Department,Credit Unit,Lecturer id
+1,ENG 101,Introduction to Literary Studies,100 / 1st,ENGLISH,2,ST / ENG / 106
+2,ENG 202,Shakespearean Drama,100 / 1st,ENGLISH,1,ST / ENG / 107
+3,ENG 303,American Literature: Colonial to Civil War,100 / 1st,ENGLISH,4,ST / ENG / 108
+4,ENG 404,Modern and Contemporary Poetry,100 / 1st,ENGLISH,1,ST / ENG / 109
+5,ENG 505,British Literature: Victorian Era,100 / 1st,ENGLISH,4,ST / ENG / 110
+6,ENG 606,Introduction to Creative Writing,100 / 1st,ENGLISH,1,ST / ENG / 156
+7,ENG 707,Gothic Literature,100 / 2nd,ENGLISH,2,ST / ENG / 157
+8,ENG 808,Women Writers,100 / 2nd,ENGLISH,4,ST / ENG / 158
+9,ENG 909,Postcolonial Literature,100 / 2nd,ENGLISH,1,ST / ENG / 159
+10,ENG 1010,Science Fiction and Fantasy,100 / 2nd,ENGLISH,2,ST / ENG / 160
+11,ENG 1111,African American Literature,100 / 2nd,ENGLISH,1,ST / ENG / 106
+12,ENG 1212,World Literature in Translation,100 / 2nd,ENGLISH,3,ST / ENG / 107
+13,ENG 1313,Literary Theory and Criticism,200 / 1st,ENGLISH,4,ST / ENG / 108
+14,ENG 1414,Advanced Composition,200 / 1st,ENGLISH,4,ST / ENG / 109
+15,ENG 1515,Comparative Literature,200 / 1st,ENGLISH,3,ST / ENG / 110
+16,ENG 1616,Literature and Film,200 / 1st,ENGLISH,2,ST / ENG / 156
+17,ENG 1717,Children's Literature,200 / 1st,ENGLISH,3,ST / ENG / 157
+18,ENG 1818,Medieval Literature,200 / 1st,ENGLISH,3,ST / ENG / 158
+19,ENG 1919,The Short Story,200 / 2nd,ENGLISH,1,ST / ENG / 159
+20,ENG 2020,The Graphic Novel,200 / 2nd,ENGLISH,3,ST / ENG / 160
+21,ENG 2121,Environmental Literature,200 / 2nd,ENGLISH,3,ST / ENG / 106
+22,ENG 2222,Queer Literature,200 / 2nd,ENGLISH,3,ST / ENG / 107
+23,ENG 2323,The Novel: Form and Function,200 / 2nd,ENGLISH,2,ST / ENG / 108
+24,ENG 2424,Literature of the American West,200 / 2nd,ENGLISH,4,ST / ENG / 109
+25,ENG 2525,Early American Literature,300 / 1st,ENGLISH,2,ST / ENG / 110
+26,ENG 2626,Literary Journalism,300 / 1st,ENGLISH,2,ST / ENG / 156
+27,ENG 2727,Writing for Digital Media,300 / 1st,ENGLISH,4,ST / ENG / 157
+28,ENG 2828,Renaissance Literature,300 / 1st,ENGLISH,3,ST / ENG / 158
+29,ENG 2929,Modernist Literature,300 / 1st,ENGLISH,4,ST / ENG / 159
+30,ENG 3030,Romantic Poetry,300 / 1st,ENGLISH,4,ST / ENG / 160
+31,ENG 3131,Literature and Society,300 / 2nd,ENGLISH,2,ST / ENG / 106
+32,ENG 3232,The Harlem Renaissance,300 / 2nd,ENGLISH,1,ST / ENG / 107
+33,ENG 3333,Ethnic American Literature,300 / 2nd,ENGLISH,3,ST / ENG / 108
+34,ENG 3434,Literature of the Great Depression,300 / 2nd,ENGLISH,1,ST / ENG / 109
+35,ENG 3535,Creative Nonfiction,300 / 2nd,ENGLISH,1,ST / ENG / 110
+36,ENG 3636,Literature of the Fantastic,300 / 2nd,ENGLISH,3,ST / ENG / 156
+37,ENG 3737,20th Century British Literature,300 / 2nd,ENGLISH,2,ST / ENG / 157
+38,ENG 3838,Advanced Fiction Writing,300 / 2nd,ENGLISH,1,ST / ENG / 158
+39,ENG 3939,Young Adult Literature,400 / 1st,ENGLISH,1,ST / ENG / 159
+40,ENG 4040,Literary Adaptations,400 / 1st,ENGLISH,2,ST / ENG / 160
+41,ENG 4141,Contemporary American Literature,400 / 1st,ENGLISH,4,ST / ENG / 106
+42,ENG 4242,Literature and Philosophy,400 / 1st,ENGLISH,3,ST / ENG / 107
+43,ENG 4343,Satire and Humor in Literature,400 / 1st,ENGLISH,3,ST / ENG / 108
+44,ENG 4444,Literary Landscapes,400 / 1st,ENGLISH,2,ST / ENG / 109
+45,ENG 4545,Writing for Social Change,400 / 2nd,ENGLISH,4,ST / ENG / 110
+46,ENG 4646,Classical Mythology in Literature,400 / 2nd,ENGLISH,4,ST / ENG / 156
+47,ENG 4747,Playwriting,400 / 2nd,ENGLISH,2,ST / ENG / 157
+48,ENG 4848,The Bible as Literature,400 / 2nd,ENGLISH,3,ST / ENG / 158
+49,ENG 4949,Digital Humanities,400 / 2nd,ENGLISH,3,ST / ENG / 159
+50,ENG 5050,Literature and Technology,400 / 2nd,ENGLISH,1,ST / ENG / 160
+1,MAT 101,Calculus I,100 / 1st,MATHEMATICS,1,ST / MAT / 101
+2,MAT 202,Calculus II,100 / 1st,MATHEMATICS,1,ST / MAT / 102
+3,MAT 303,Calculus III,100 / 1st,MATHEMATICS,3,ST / MAT / 103
+4,MAT 404,Linear Algebra,100 / 1st,MATHEMATICS,2,ST / MAT / 104
+5,MAT 505,Differential Equations,100 / 1st,MATHEMATICS,4,ST / MAT / 105
+6,MAT 606,Discrete Mathematics,100 / 1st,MATHEMATICS,3,ST / MAT / 151
+7,MAT 707,Abstract Algebra,100 / 2nd,MATHEMATICS,1,ST / MAT / 152
+8,MAT 808,Real Analysis,100 / 2nd,MATHEMATICS,3,ST / MAT / 153
+9,MAT 909,Complex Analysis,100 / 2nd,MATHEMATICS,2,ST / MAT / 154
+10,MAT 1010,Probability and Statistics,100 / 2nd,MATHEMATICS,2,ST / MAT / 155
+11,MAT 1111,Numerical Methods,100 / 2nd,MATHEMATICS,3,ST / MAT / 101
+12,MAT 1212,Topology,100 / 2nd,MATHEMATICS,4,ST / MAT / 102
+13,MAT 1313,Mathematical Logic,200 / 1st,MATHEMATICS,1,ST / MAT / 103
+14,MAT 1414,Number Theory,200 / 1st,MATHEMATICS,1,ST / MAT / 104
+15,MAT 1515,Combinatorics,200 / 1st,MATHEMATICS,3,ST / MAT / 105
+16,MAT 1616,Graph Theory,200 / 1st,MATHEMATICS,3,ST / MAT / 151
+17,MAT 1717,Mathematical Modeling,200 / 1st,MATHEMATICS,1,ST / MAT / 152
+18,MAT 1818,Applied Mathematics,200 / 1st,MATHEMATICS,3,ST / MAT / 153
+19,MAT 1919,History of Mathematics,200 / 2nd,MATHEMATICS,2,ST / MAT / 154
+20,MAT 2020,Partial Differential Equations,200 / 2nd,MATHEMATICS,1,ST / MAT / 155
+21,MAT 2121,Mathematical Statistics,200 / 2nd,MATHEMATICS,4,ST / MAT / 101
+22,MAT 2222,Dynamical Systems,200 / 2nd,MATHEMATICS,2,ST / MAT / 102
+23,MAT 2323,Fourier Analysis,200 / 2nd,MATHEMATICS,3,ST / MAT / 103
+24,MAT 2424,Non-Euclidean Geometry,200 / 2nd,MATHEMATICS,3,ST / MAT / 104
+25,MAT 2525,Game Theory,300 / 1st,MATHEMATICS,3,ST / MAT / 105
+26,MAT 2626,Set Theory,300 / 1st,MATHEMATICS,3,ST / MAT / 151
+27,MAT 2727,Functional Analysis,300 / 1st,MATHEMATICS,4,ST / MAT / 152
+28,MAT 2828,Stochastic Processes,300 / 1st,MATHEMATICS,3,ST / MAT / 153
+29,MAT 2929,Financial Mathematics,300 / 1st,MATHEMATICS,2,ST / MAT / 154
+30,MAT 3030,Optimization,300 / 1st,MATHEMATICS,1,ST / MAT / 155
+31,MAT 3131,Cryptography,300 / 2nd,MATHEMATICS,4,ST / MAT / 101
+32,MAT 3232,Computational Algebra,300 / 2nd,MATHEMATICS,3,ST / MAT / 102
+33,MAT 3333,Biomathematics,300 / 2nd,MATHEMATICS,4,ST / MAT / 103
+34,MAT 3434,Fractals and Chaos,300 / 2nd,MATHEMATICS,3,ST / MAT / 104
+35,MAT 3535,Measure Theory,300 / 2nd,MATHEMATICS,3,ST / MAT / 105
+36,MAT 3636,Statistical Inference,300 / 2nd,MATHEMATICS,4,ST / MAT / 151
+37,MAT 3737,Multivariable Calculus,300 / 2nd,MATHEMATICS,3,ST / MAT / 152
+38,MAT 3838,Differential Geometry,300 / 2nd,MATHEMATICS,3,ST / MAT / 153
+39,MAT 3939,Operations Research,400 / 1st,MATHEMATICS,2,ST / MAT / 154
+40,MAT 4040,Bayesian Statistics,400 / 1st,MATHEMATICS,1,ST / MAT / 155
+41,MAT 4141,Mathematical Physics,400 / 1st,MATHEMATICS,1,ST / MAT / 101
+42,MAT 4242,Algebraic Geometry,400 / 1st,MATHEMATICS,2,ST / MAT / 102
+43,MAT 4343,Advanced Linear Algebra,400 / 1st,MATHEMATICS,4,ST / MAT / 103
+44,MAT 4444,Actuarial Mathematics,400 / 1st,MATHEMATICS,2,ST / MAT / 104
+45,MAT 4545,Computational Fluid Dynamics,400 / 2nd,MATHEMATICS,1,ST / MAT / 105
+46,MAT 4646,Time Series Analysis,400 / 2nd,MATHEMATICS,1,ST / MAT / 151
+47,MAT 4747,Data Analysis and Visualization,400 / 2nd,MATHEMATICS,1,ST / MAT / 152
+48,MAT 4848,Theoretical Computer Science,400 / 2nd,MATHEMATICS,1,ST / MAT / 153
+49,MAT 4949,Advanced Probability,400 / 2nd,MATHEMATICS,3,ST / MAT / 154
+50,MAT 5050,Geometric Group Theory,400 / 2nd,MATHEMATICS,2,ST / MAT / 155
+1,BIO 101,Introduction to Biology,100 / 1st,BIOLOGY,2,ST / BIO / 111
+2,BIO 202,Cell Biology,100 / 1st,BIOLOGY,3,ST / BIO / 112
+3,BIO 303,Genetics,100 / 1st,BIOLOGY,3,ST / BIO / 113
+4,BIO 404,Evolutionary Biology,100 / 1st,BIOLOGY,3,ST / BIO / 114
+5,BIO 505,Microbiology,100 / 1st,BIOLOGY,3,ST / BIO / 115
+6,BIO 606,Molecular Biology,100 / 1st,BIOLOGY,3,ST / BIO / 161
+7,BIO 707,Ecology,100 / 2nd,BIOLOGY,3,ST / BIO / 162
+8,BIO 808,Human Anatomy and Physiology,100 / 2nd,BIOLOGY,1,ST / BIO / 163
+9,BIO 909,Biochemistry,100 / 2nd,BIOLOGY,3,ST / BIO / 164
+10,BIO 1010,Plant Biology,100 / 2nd,BIOLOGY,1,ST / BIO / 165
+11,BIO 1111,Animal Behavior,100 / 2nd,BIOLOGY,3,ST / BIO / 111
+12,BIO 1212,Marine Biology,100 / 2nd,BIOLOGY,1,ST / BIO / 112
+13,BIO 1313,Developmental Biology,200 / 1st,BIOLOGY,3,ST / BIO / 113
+14,BIO 1414,Immunology,200 / 1st,BIOLOGY,2,ST / BIO / 114
+15,BIO 1515,Neurobiology,200 / 1st,BIOLOGY,4,ST / BIO / 115
+16,BIO 1616,Conservation Biology,200 / 1st,BIOLOGY,4,ST / BIO / 161
+17,BIO 1717,Biotechnology,200 / 1st,BIOLOGY,1,ST / BIO / 162
+18,BIO 1818,Environmental Biology,200 / 1st,BIOLOGY,3,ST / BIO / 163
+19,BIO 1919,Parasitology,200 / 2nd,BIOLOGY,4,ST / BIO / 164
+20,BIO 2020,Endocrinology,200 / 2nd,BIOLOGY,3,ST / BIO / 165
+21,BIO 2121,Virology,200 / 2nd,BIOLOGY,4,ST / BIO / 111
+22,BIO 2222,Evolutionary Genetics,200 / 2nd,BIOLOGY,4,ST / BIO / 112
+23,BIO 2323,Invertebrate Zoology,200 / 2nd,BIOLOGY,3,ST / BIO / 113
+24,BIO 2424,Vertebrate Zoology,200 / 2nd,BIOLOGY,1,ST / BIO / 114
+25,BIO 2525,Freshwater Biology,300 / 1st,BIOLOGY,1,ST / BIO / 115
+26,BIO 2626,Behavioral Ecology,300 / 1st,BIOLOGY,4,ST / BIO / 161
+27,BIO 2727,Genomics,300 / 1st,BIOLOGY,2,ST / BIO / 162
+28,BIO 2828,Bioinformatics,300 / 1st,BIOLOGY,3,ST / BIO / 163
+29,BIO 2929,Paleobiology,300 / 1st,BIOLOGY,1,ST / BIO / 164
+30,BIO 3030,Forensic Biology,300 / 1st,BIOLOGY,3,ST / BIO / 165
+31,BIO 3131,Comparative Anatomy,300 / 2nd,BIOLOGY,2,ST / BIO / 111
+32,BIO 3232,Biostatistics,300 / 2nd,BIOLOGY,3,ST / BIO / 112
+33,BIO 3333,Plant Physiology,300 / 2nd,BIOLOGY,1,ST / BIO / 113
+34,BIO 3434,Aquatic Ecology,300 / 2nd,BIOLOGY,3,ST / BIO / 114
+35,BIO 3535,Evolution of Development,300 / 2nd,BIOLOGY,1,ST / BIO / 115
+36,BIO 3636,Disease Ecology,300 / 2nd,BIOLOGY,3,ST / BIO / 161
+37,BIO 3737,Biomedical Ethics,300 / 2nd,BIOLOGY,3,ST / BIO / 162
+38,BIO 3838,Ecotoxicology,300 / 2nd,BIOLOGY,4,ST / BIO / 163
+39,BIO 3939,Human Genetics,400 / 1st,BIOLOGY,2,ST / BIO / 164
+40,BIO 4040,Molecular Evolution,400 / 1st,BIOLOGY,2,ST / BIO / 165
+41,BIO 4141,Ecological Modeling,400 / 1st,BIOLOGY,4,ST / BIO / 111
+42,BIO 4242,Biodiversity,400 / 1st,BIOLOGY,3,ST / BIO / 112
+43,BIO 4343,Immunogenetics,400 / 1st,BIOLOGY,4,ST / BIO / 113
+44,BIO 4444,Cellular Signaling,400 / 1st,BIOLOGY,3,ST / BIO / 114
+45,BIO 4545,Population Biology,400 / 2nd,BIOLOGY,4,ST / BIO / 115
+46,BIO 4646,Structural Biology,400 / 2nd,BIOLOGY,4,ST / BIO / 161
+47,BIO 4747,Human Evolution,400 / 2nd,BIOLOGY,2,ST / BIO / 162
+48,BIO 4848,Tropical Biology,400 / 2nd,BIOLOGY,4,ST / BIO / 163
+49,BIO 4949,Bioenergetics,400 / 2nd,BIOLOGY,3,ST / BIO / 164
+50,BIO 5050,Applied Microbiology,400 / 2nd,BIOLOGY,2,ST / BIO / 165
+1,CHE 101,General Chemistry I,100 / 1st,CHEMISTRY,2,ST / CHE / 116
+2,CHE 202,Organic Chemistry I,100 / 1st,CHEMISTRY,3,ST / CHE / 117
+3,CHE 303,Inorganic Chemistry,100 / 1st,CHEMISTRY,1,ST / CHE / 118
+4,CHE 404,Analytical Chemistry,100 / 1st,CHEMISTRY,2,ST / CHE / 119
+5,CHE 505,Physical Chemistry,100 / 1st,CHEMISTRY,2,ST / CHE / 120
+6,CHE 606,Chemical Thermodynamics,100 / 1st,CHEMISTRY,4,ST / CHE / 166
+7,CHE 707,General Chemistry II,100 / 2nd,CHEMISTRY,3,ST / CHE / 167
+8,BIO 909,Biochemistry,100 / 2nd,CHEMISTRY,1,ST / CHE / 168
+9,CHE 909,Advanced Organic Chemistry,100 / 2nd,CHEMISTRY,3,ST / CHE / 169
+10,CHE 1010,Quantum Chemistry,100 / 2nd,CHEMISTRY,3,ST / CHE / 170
+11,CHE 1111,Organic Chemistry II,100 / 2nd,CHEMISTRY,1,ST / CHE / 116
+12,CHE 1212,Instrumental Analysis,100 / 2nd,CHEMISTRY,1,ST / CHE / 117
+13,CHE 1313,Environmental Chemistry,200 / 1st,CHEMISTRY,3,ST / CHE / 118
+14,CHE 1414,Polymer Chemistry,200 / 1st,CHEMISTRY,3,ST / CHE / 119
+15,CHE 1515,Medicinal Chemistry,200 / 1st,CHEMISTRY,2,ST / CHE / 120
+16,CHE 1616,Materials Chemistry,200 / 1st,CHEMISTRY,3,ST / CHE / 166
+17,CHE 1717,Computational Chemistry,200 / 1st,CHEMISTRY,3,ST / CHE / 167
+18,CHE 1818,Chemical Kinetics,200 / 1st,CHEMISTRY,1,ST / CHE / 168
+19,CHE 1919,Electrochemistry,200 / 2nd,CHEMISTRY,3,ST / CHE / 169
+20,CHE 2020,Surface Chemistry,200 / 2nd,CHEMISTRY,3,ST / CHE / 170
+21,CHE 2121,Coordination Chemistry,200 / 2nd,CHEMISTRY,3,ST / CHE / 116
+22,CHE 2222,Organometallic Chemistry,200 / 2nd,CHEMISTRY,4,ST / CHE / 117
+23,CHE 2323,Spectroscopy,200 / 2nd,CHEMISTRY,4,ST / CHE / 118
+24,CHE 2424,Nuclear Chemistry,200 / 2nd,CHEMISTRY,1,ST / CHE / 119
+25,CHE 2525,Chemical Biology,300 / 1st,CHEMISTRY,3,ST / CHE / 120
+26,CHE 2626,Solid State Chemistry,300 / 1st,CHEMISTRY,1,ST / CHE / 166
+27,CHE 2727,Advanced Inorganic Chemistry,300 / 1st,CHEMISTRY,3,ST / CHE / 167
+28,CHE 2828,Bioinorganic Chemistry,300 / 1st,CHEMISTRY,1,ST / CHE / 168
+29,CHE 2929,Industrial Chemistry,300 / 1st,CHEMISTRY,1,ST / CHE / 169
+30,CHE 3030,Forensic Chemistry,300 / 1st,CHEMISTRY,3,ST / CHE / 170
+31,CHE 3131,Green Chemistry,300 / 2nd,CHEMISTRY,4,ST / CHE / 116
+32,CHE 3232,Food Chemistry,300 / 2nd,CHEMISTRY,1,ST / CHE / 117
+33,CHE 3333,Atmospheric Chemistry,300 / 2nd,CHEMISTRY,1,ST / CHE / 118
+34,CHE 3434,Chemical Oceanography,300 / 2nd,CHEMISTRY,2,ST / CHE / 119
+35,CHE 3535,Chemical Separations,300 / 2nd,CHEMISTRY,2,ST / CHE / 120
+36,CHE 3636,Nanochemistry,300 / 2nd,CHEMISTRY,1,ST / CHE / 166
+37,CHE 3737,Photochemistry,300 / 2nd,CHEMISTRY,2,ST / CHE / 167
+38,CHE 3838,Supramolecular Chemistry,300 / 2nd,CHEMISTRY,2,ST / CHE / 168
+39,CHE 3939,Theoretical Chemistry,400 / 1st,CHEMISTRY,4,ST / CHE / 169
+40,CHE 4040,Enzyme Chemistry,400 / 1st,CHEMISTRY,1,ST / CHE / 170
+41,CHE 4141,Advanced Analytical Techniques,400 / 1st,CHEMISTRY,2,ST / CHE / 116
+42,CHE 4242,Crystallography,400 / 1st,CHEMISTRY,1,ST / CHE / 117
+43,CHE 4343,Chemical Informatics,400 / 1st,CHEMISTRY,4,ST / CHE / 118
+44,CHE 4444,Chemical Safety and Toxicology,400 / 1st,CHEMISTRY,1,ST / CHE / 119
+45,CHE 4545,Laboratory Techniques in Chemistry,400 / 2nd,CHEMISTRY,2,ST / CHE / 120
+46,CHE 4646,Environmental Toxicology,400 / 2nd,CHEMISTRY,3,ST / CHE / 166
+47,CHE 4747,Industrial Catalysis,400 / 2nd,CHEMISTRY,2,ST / CHE / 167
+48,CHE 4848,X-ray Diffraction and Analysis,400 / 2nd,CHEMISTRY,3,ST / CHE / 168
+49,CHE 4949,Chemical Education and Pedagogy,400 / 2nd,CHEMISTRY,2,ST / CHE / 169
+50,CHE 5050,Advanced Biochemistry,400 / 2nd,CHEMISTRY,3,ST / CHE / 170
+1,PHY 101,General Physics I,100 / 1st,PHYSICS,1,ST / PHY / 121
+2,PHY 202,General Physics II,100 / 1st,PHYSICS,1,ST / PHY / 122
+3,PHY 303,Classical Mechanics,100 / 1st,PHYSICS,2,ST / PHY / 123
+4,PHY 404,Electromagnetism,100 / 1st,PHYSICS,3,ST / PHY / 124
+5,PHY 505,Modern Physics,100 / 1st,PHYSICS,3,ST / PHY / 125
+6,PHY 606,Quantum Mechanics I,100 / 1st,PHYSICS,2,ST / PHY / 171
+7,PHY 707,Quantum Mechanics II,100 / 2nd,PHYSICS,2,ST / PHY / 172
+8,PHY 808,Thermodynamics,100 / 2nd,PHYSICS,2,ST / PHY / 173
+9,PHY 909,Statistical Mechanics,100 / 2nd,PHYSICS,3,ST / PHY / 174
+10,PHY 1010,Optics,100 / 2nd,PHYSICS,4,ST / PHY / 175
+11,PHY 1111,Solid State Physics,100 / 2nd,PHYSICS,1,ST / PHY / 121
+12,PHY 1212,Nuclear Physics,100 / 2nd,PHYSICS,2,ST / PHY / 122
+13,PHY 1313,Particle Physics,200 / 1st,PHYSICS,3,ST / PHY / 123
+14,PHY 1414,Computational Physics,200 / 1st,PHYSICS,1,ST / PHY / 124
+15,PHY 1515,Astrophysics,200 / 1st,PHYSICS,2,ST / PHY / 125
+16,PHY 1616,Cosmology,200 / 1st,PHYSICS,2,ST / PHY / 171
+17,PHY 1717,Relativity,200 / 1st,PHYSICS,4,ST / PHY / 172
+18,PHY 1818,Plasma Physics,200 / 1st,PHYSICS,4,ST / PHY / 173
+19,PHY 1919,Mathematical Methods in Physics,200 / 2nd,PHYSICS,3,ST / PHY / 174
+20,PHY 2020,Experimental Physics,200 / 2nd,PHYSICS,4,ST / PHY / 175
+21,PHY 2121,Condensed Matter Physics,200 / 2nd,PHYSICS,4,ST / PHY / 121
+22,PHY 2222,Biophysics,200 / 2nd,PHYSICS,1,ST / PHY / 122
+23,PHY 2323,Advanced Electromagnetism,200 / 2nd,PHYSICS,4,ST / PHY / 123
+24,PHY 2424,Advanced Classical Mechanics,200 / 2nd,PHYSICS,1,ST / PHY / 124
+25,PHY 2525,Electronics for Physicists,300 / 1st,PHYSICS,4,ST / PHY / 125
+26,PHY 2626,Laser Physics,300 / 1st,PHYSICS,3,ST / PHY / 171
+27,PHY 2727,Medical Physics,300 / 1st,PHYSICS,3,ST / PHY / 172
+28,PHY 2828,Physics of Materials,300 / 1st,PHYSICS,1,ST / PHY / 173
+29,PHY 2929,Quantum Field Theory,300 / 1st,PHYSICS,1,ST / PHY / 174
+30,PHY 3030,General Relativity,300 / 1st,PHYSICS,1,ST / PHY / 175
+31,PHY 3131,Fluid Dynamics,300 / 2nd,PHYSICS,2,ST / PHY / 121
+32,PHY 3232,Nonlinear Dynamics and Chaos,300 / 2nd,PHYSICS,4,ST / PHY / 122
+33,PHY 3333,Space Physics,300 / 2nd,PHYSICS,1,ST / PHY / 123
+34,PHY 3434,Atmospheric Physics,300 / 2nd,PHYSICS,4,ST / PHY / 124
+35,PHY 3535,Renewable Energy Physics,300 / 2nd,PHYSICS,2,ST / PHY / 125
+36,PHY 3636,High-Energy Astrophysics,300 / 2nd,PHYSICS,2,ST / PHY / 171
+37,PHY 3737,Quantum Optics,300 / 2nd,PHYSICS,1,ST / PHY / 172
+38,PHY 3838,Semiconductor Physics,300 / 2nd,PHYSICS,2,ST / PHY / 173
+39,PHY 3939,Radiation Physics,400 / 1st,PHYSICS,1,ST / PHY / 174
+40,PHY 4040,Nanophysics,400 / 1st,PHYSICS,2,ST / PHY / 175
+41,PHY 4141,Physics of Climate,400 / 1st,PHYSICS,3,ST / PHY / 121
+42,PHY 4242,Acoustic Physics,400 / 1st,PHYSICS,3,ST / PHY / 122
+43,PHY 4343,Geophysics,400 / 1st,PHYSICS,4,ST / PHY / 123
+44,PHY 4444,Accelerator Physics,400 / 1st,PHYSICS,4,ST / PHY / 124
+45,PHY 4545,Applied Physics,400 / 2nd,PHYSICS,1,ST / PHY / 125
+46,PHY 4646,Advanced Laboratory Techniques,400 / 2nd,PHYSICS,1,ST / PHY / 171
+47,PHY 4747,Theoretical Physics,400 / 2nd,PHYSICS,3,ST / PHY / 172
+48,PHY 4848,Gravitation and Cosmology,400 / 2nd,PHYSICS,1,ST / PHY / 173
+49,PHY 4949,Surface Physics,400 / 2nd,PHYSICS,4,ST / PHY / 174
+50,PHY 5050,Foundations of Quantum Mechanics,400 / 2nd,PHYSICS,1,ST / PHY / 175
+1,HIS 101,Introduction to World History,100 / 1st,HISTORY,4,ST / HIS / 126
+2,HIS 202,Ancient Civilizations,100 / 1st,HISTORY,2,ST / HIS / 127
+3,HIS 303,Medieval Europe,100 / 1st,HISTORY,4,ST / HIS / 128
+4,HIS 404,Renaissance and Reformation,100 / 1st,HISTORY,3,ST / HIS / 129
+5,HIS 505,History of the United States I,100 / 1st,HISTORY,1,ST / HIS / 130
+6,HIS 606,History of the United States II,100 / 1st,HISTORY,4,ST / HIS / 176
+7,HIS 707,History of Modern Europe,100 / 2nd,HISTORY,3,ST / HIS / 177
+8,HIS 808,History of East Asia,100 / 2nd,HISTORY,4,ST / HIS / 178
+9,HIS 909,History of Latin America,100 / 2nd,HISTORY,1,ST / HIS / 179
+10,HIS 1010,African History,100 / 2nd,HISTORY,2,ST / HIS / 180
+11,HIS 1111,History of the Middle East,100 / 2nd,HISTORY,1,ST / HIS / 126
+12,HIS 1212,History of Russia,100 / 2nd,HISTORY,2,ST / HIS / 127
+13,HIS 1313,Colonial America,200 / 1st,HISTORY,1,ST / HIS / 128
+14,HIS 1414,The American Revolution,200 / 1st,HISTORY,4,ST / HIS / 129
+15,HIS 1515,The Civil War and Reconstruction,200 / 1st,HISTORY,1,ST / HIS / 130
+16,HIS 1616,Twentieth-Century America,200 / 1st,HISTORY,2,ST / HIS / 176
+17,HIS 1717,History of the British Empire,200 / 1st,HISTORY,3,ST / HIS / 177
+18,HIS 1818,The French Revolution,200 / 1st,HISTORY,3,ST / HIS / 178
+19,HIS 1919,World War I,200 / 2nd,HISTORY,4,ST / HIS / 179
+20,HIS 2020,World War II,200 / 2nd,HISTORY,2,ST / HIS / 180
+21,HIS 2121,History of the Cold War,200 / 2nd,HISTORY,2,ST / HIS / 126
+22,HIS 2222,History of Science and Technology,200 / 2nd,HISTORY,4,ST / HIS / 127
+23,HIS 2323,Environmental History,200 / 2nd,HISTORY,2,ST / HIS / 128
+24,HIS 2424,Women in History,200 / 2nd,HISTORY,4,ST / HIS / 129
+25,HIS 2525,History of Slavery,300 / 1st,HISTORY,3,ST / HIS / 130
+26,HIS 2626,Indigenous Peoples' History,300 / 1st,HISTORY,1,ST / HIS / 176
+27,HIS 2727,Social and Cultural History,300 / 1st,HISTORY,3,ST / HIS / 177
+28,HIS 2828,Economic History,300 / 1st,HISTORY,4,ST / HIS / 178
+29,HIS 2929,Intellectual History,300 / 1st,HISTORY,3,ST / HIS / 179
+30,HIS 3030,History of Religion,300 / 1st,HISTORY,2,ST / HIS / 180
+31,HIS 3131,Urban History,300 / 2nd,HISTORY,1,ST / HIS / 126
+32,HIS 3232,Public History,300 / 2nd,HISTORY,1,ST / HIS / 127
+33,HIS 3333,History of Warfare,300 / 2nd,HISTORY,2,ST / HIS / 128
+34,HIS 3434,Diplomatic History,300 / 2nd,HISTORY,4,ST / HIS / 129
+35,HIS 3535,History of Medicine,300 / 2nd,HISTORY,3,ST / HIS / 130
+36,HIS 3636,History of the Holocaust,300 / 2nd,HISTORY,2,ST / HIS / 176
+37,HIS 3737,History of Human Rights,300 / 2nd,HISTORY,3,ST / HIS / 177
+38,HIS 3838,History of Immigration,300 / 2nd,HISTORY,2,ST / HIS / 178
+39,HIS 3939,History of Education,400 / 1st,HISTORY,4,ST / HIS / 179
+40,HIS 4040,Latin American Revolutions,400 / 1st,HISTORY,4,ST / HIS / 180
+41,HIS 4141,History of the American West,400 / 1st,HISTORY,3,ST / HIS / 126
+42,HIS 4242,The Vietnam War,400 / 1st,HISTORY,4,ST / HIS / 127
+43,HIS 4343,Modern African History,400 / 1st,HISTORY,4,ST / HIS / 128
+44,HIS 4444,European Intellectual History,400 / 1st,HISTORY,1,ST / HIS / 129
+45,HIS 4545,History of South Asia,400 / 2nd,HISTORY,2,ST / HIS / 130
+46,HIS 4646,Caribbean History,400 / 2nd,HISTORY,2,ST / HIS / 176
+47,HIS 4747,Islamic Civilization,400 / 2nd,HISTORY,4,ST / HIS / 177
+48,HIS 4848,The Enlightenment,400 / 2nd,HISTORY,2,ST / HIS / 178
+49,HIS 4949,History of Mexico,400 / 2nd,HISTORY,3,ST / HIS / 179
+50,HIS 5050,History of Modern Japan,400 / 2nd,HISTORY,1,ST / HIS / 180
+1,PSY 101,Introduction to Psychology,100 / 1st,PSYCHOLOGY,2,ST / PSY / 131
+2,PSY 202,Developmental Psychology,100 / 1st,PSYCHOLOGY,4,ST / PSY / 132
+3,PSY 303,Abnormal Psychology,100 / 1st,PSYCHOLOGY,4,ST / PSY / 133
+4,PSY 404,Social Psychology,100 / 1st,PSYCHOLOGY,1,ST / PSY / 134
+5,PSY 505,Cognitive Psychology,100 / 1st,PSYCHOLOGY,1,ST / PSY / 135
+6,PSY 606,Biological Psychology,100 / 1st,PSYCHOLOGY,2,ST / PSY / 181
+7,PSY 707,Personality Psychology,100 / 2nd,PSYCHOLOGY,1,ST / PSY / 182
+8,PSY 808,Clinical Psychology,100 / 2nd,PSYCHOLOGY,4,ST / PSY / 183
+9,PSY 909,Child Psychology,100 / 2nd,PSYCHOLOGY,2,ST / PSY / 184
+10,PSY 1010,Adolescent Psychology,100 / 2nd,PSYCHOLOGY,1,ST / PSY / 185
+11,PSY 1111,Psychology of Aging,100 / 2nd,PSYCHOLOGY,1,ST / PSY / 131
+12,PSY 1212,Health Psychology,100 / 2nd,PSYCHOLOGY,1,ST / PSY / 132
+13,PSY 1313,Forensic Psychology,200 / 1st,PSYCHOLOGY,1,ST / PSY / 133
+14,PSY 1414,Industrial-Organizational Psychology,200 / 1st,PSYCHOLOGY,1,ST / PSY / 134
+15,PSY 1515,Educational Psychology,200 / 1st,PSYCHOLOGY,1,ST / PSY / 135
+16,PSY 1616,Experimental Psychology,200 / 1st,PSYCHOLOGY,2,ST / PSY / 181
+17,PSY 1717,Neuropsychology,200 / 1st,PSYCHOLOGY,1,ST / PSY / 182
+18,PSY 1818,Psychopathology,200 / 1st,PSYCHOLOGY,1,ST / PSY / 183
+19,PSY 1919,Behavioral Neuroscience,200 / 2nd,PSYCHOLOGY,4,ST / PSY / 184
+20,PSY 2020,Counseling Psychology,200 / 2nd,PSYCHOLOGY,3,ST / PSY / 185
+21,PSY 2121,Environmental Psychology,200 / 2nd,PSYCHOLOGY,1,ST / PSY / 131
+22,PSY 2222,Positive Psychology,200 / 2nd,PSYCHOLOGY,4,ST / PSY / 132
+23,PSY 2323,Human Sexuality,200 / 2nd,PSYCHOLOGY,1,ST / PSY / 133
+24,PSY 2424,Psychological Assessment,200 / 2nd,PSYCHOLOGY,2,ST / PSY / 134
+25,PSY 2525,Psychology of Learning,300 / 1st,PSYCHOLOGY,3,ST / PSY / 135
+26,PSY 2626,Cross-Cultural Psychology,300 / 1st,PSYCHOLOGY,1,ST / PSY / 181
+27,PSY 2727,Sports Psychology,300 / 1st,PSYCHOLOGY,1,ST / PSY / 182
+28,PSY 2828,Psychopharmacology,300 / 1st,PSYCHOLOGY,3,ST / PSY / 183
+29,PSY 2929,Psychology of Emotions,300 / 1st,PSYCHOLOGY,1,ST / PSY / 184
+30,PSY 3030,Motivation and Behavior,300 / 1st,PSYCHOLOGY,4,ST / PSY / 185
+31,PSY 3131,Psychological Statistics,300 / 2nd,PSYCHOLOGY,4,ST / PSY / 131
+32,PSY 3232,Research Methods in Psychology,300 / 2nd,PSYCHOLOGY,2,ST / PSY / 132
+33,PSY 3333,Psychology of Women,300 / 2nd,PSYCHOLOGY,1,ST / PSY / 133
+34,PSY 3434,Cognitive Development,300 / 2nd,PSYCHOLOGY,3,ST / PSY / 134
+35,PSY 3535,Sensation and Perception,300 / 2nd,PSYCHOLOGY,3,ST / PSY / 135
+36,PSY 3636,Memory and Cognition,300 / 2nd,PSYCHOLOGY,4,ST / PSY / 181
+37,PSY 3737,Theories of Personality,300 / 2nd,PSYCHOLOGY,2,ST / PSY / 182
+38,PSY 3838,History and Systems of Psychology,300 / 2nd,PSYCHOLOGY,4,ST / PSY / 183
+39,PSY 3939,Psychology of Language,400 / 1st,PSYCHOLOGY,4,ST / PSY / 184
+40,PSY 4040,Psychotherapy,400 / 1st,PSYCHOLOGY,1,ST / PSY / 185
+41,PSY 4141,Psychometrics,400 / 1st,PSYCHOLOGY,1,ST / PSY / 131
+42,PSY 4242,Group Dynamics,400 / 1st,PSYCHOLOGY,3,ST / PSY / 132
+43,PSY 4343,Human Factors Psychology,400 / 1st,PSYCHOLOGY,3,ST / PSY / 133
+44,PSY 4444,Addiction Psychology,400 / 1st,PSYCHOLOGY,3,ST / PSY / 134
+45,PSY 4545,Family Psychology,400 / 2nd,PSYCHOLOGY,2,ST / PSY / 135
+46,PSY 4646,Media Psychology,400 / 2nd,PSYCHOLOGY,3,ST / PSY / 181
+47,PSY 4747,Consumer Psychology,400 / 2nd,PSYCHOLOGY,1,ST / PSY / 182
+48,PSY 4848,Psychology of Prejudice,400 / 2nd,PSYCHOLOGY,4,ST / PSY / 183
+49,PSY 4949,Psychological Ethics,400 / 2nd,PSYCHOLOGY,1,ST / PSY / 184
+50,PSY 5050,Applied Behavior Analysis,400 / 2nd,PSYCHOLOGY,4,ST / PSY / 185
+1,COM 101,Introduction to Computer Science,100 / 1st,COMPUTER SCIENCE,1,ST / COM / 136
+2,COM 202,Programming Fundamentals,100 / 1st,COMPUTER SCIENCE,4,ST / COM / 137
+3,COM 303,Data Structures and Algorithms,100 / 1st,COMPUTER SCIENCE,1,ST / COM / 138
+4,COM 404,Object-Oriented Programming,100 / 1st,COMPUTER SCIENCE,4,ST / COM / 139
+5,COM 505,Computer Organization and Architecture,100 / 1st,COMPUTER SCIENCE,1,ST / COM / 140
+6,COM 606,Operating Systems,100 / 1st,COMPUTER SCIENCE,2,ST / COM / 186
+7,COM 707,Database Systems,100 / 2nd,COMPUTER SCIENCE,4,ST / COM / 187
+8,COM 808,Software Engineering,100 / 2nd,COMPUTER SCIENCE,2,ST / COM / 188
+9,COM 909,Computer Networks,100 / 2nd,COMPUTER SCIENCE,2,ST / COM / 189
+10,COM 1010,Theory of Computation,100 / 2nd,COMPUTER SCIENCE,3,ST / COM / 190
+11,COM 1111,Artificial Intelligence,100 / 2nd,COMPUTER SCIENCE,2,ST / COM / 136
+12,COM 1212,Machine Learning,100 / 2nd,COMPUTER SCIENCE,2,ST / COM / 137
+13,COM 1313,Data Mining,200 / 1st,COMPUTER SCIENCE,3,ST / COM / 138
+14,COM 1414,Web Development,200 / 1st,COMPUTER SCIENCE,3,ST / COM / 139
+15,COM 1515,Mobile Application Development,200 / 1st,COMPUTER SCIENCE,4,ST / COM / 140
+16,COM 1616,Cybersecurity,200 / 1st,COMPUTER SCIENCE,1,ST / COM / 186
+17,COM 1717,Human-Computer Interaction,200 / 1st,COMPUTER SCIENCE,3,ST / COM / 187
+18,COM 1818,Compiler Design,200 / 1st,COMPUTER SCIENCE,2,ST / COM / 188
+19,COM 1919,Parallel and Distributed Computing,200 / 2nd,COMPUTER SCIENCE,2,ST / COM / 189
+20,COM 2020,Cloud Computing,200 / 2nd,COMPUTER SCIENCE,3,ST / COM / 190
+21,COM 2121,Computer Graphics,200 / 2nd,COMPUTER SCIENCE,3,ST / COM / 136
+22,COM 2222,Game Development,200 / 2nd,COMPUTER SCIENCE,1,ST / COM / 137
+23,MAT 3131,Cryptography,200 / 2nd,COMPUTER SCIENCE,1,ST / COM / 138
+24,COM 2424,Natural Language Processing,200 / 2nd,COMPUTER SCIENCE,1,ST / COM / 139
+25,COM 2525,Robotics,300 / 1st,COMPUTER SCIENCE,2,ST / COM / 140
+26,COM 2626,Computer Vision,300 / 1st,COMPUTER SCIENCE,2,ST / COM / 186
+27,COM 2727,Big Data Analytics,300 / 1st,COMPUTER SCIENCE,2,ST / COM / 187
+28,COM 2828,Software Testing and Quality Assurance,300 / 1st,COMPUTER SCIENCE,3,ST / COM / 188
+29,COM 2929,Embedded Systems,300 / 1st,COMPUTER SCIENCE,1,ST / COM / 189
+30,COM 3030,Internet of Things (IoT),300 / 1st,COMPUTER SCIENCE,4,ST / COM / 190
+31,COM 3131,Algorithms Design and Analysis,300 / 2nd,COMPUTER SCIENCE,1,ST / COM / 136
+32,COM 3232,Information Retrieval,300 / 2nd,COMPUTER SCIENCE,4,ST / COM / 137
+33,BIO 2828,Bioinformatics,300 / 2nd,COMPUTER SCIENCE,4,ST / COM / 138
+34,COM 3434,Virtual Reality and Augmented Reality,300 / 2nd,COMPUTER SCIENCE,1,ST / COM / 139
+35,COM 3535,Quantum Computing,300 / 2nd,COMPUTER SCIENCE,2,ST / COM / 140
+36,COM 3636,Network Security,300 / 2nd,COMPUTER SCIENCE,1,ST / COM / 186
+37,COM 3737,Ethical Hacking,300 / 2nd,COMPUTER SCIENCE,4,ST / COM / 187
+38,COM 3838,Software Project Management,300 / 2nd,COMPUTER SCIENCE,4,ST / COM / 188
+39,COM 3939,E-commerce Technologies,400 / 1st,COMPUTER SCIENCE,4,ST / COM / 189
+40,COM 4040,Advanced Database Systems,400 / 1st,COMPUTER SCIENCE,1,ST / COM / 190
+41,COM 4141,Data Visualization,400 / 1st,COMPUTER SCIENCE,2,ST / COM / 136
+42,COM 4242,Functional Programming,400 / 1st,COMPUTER SCIENCE,3,ST / COM / 137
+43,COM 4343,Real-Time Systems,400 / 1st,COMPUTER SCIENCE,2,ST / COM / 138
+44,COM 4444,Advanced Operating Systems,400 / 1st,COMPUTER SCIENCE,4,ST / COM / 139
+45,COM 4545,Digital Forensics,400 / 2nd,COMPUTER SCIENCE,3,ST / COM / 140
+46,COM 4646,Knowledge Representation and Reasoning,400 / 2nd,COMPUTER SCIENCE,2,ST / COM / 186
+47,COM 4747,Social Network Analysis,400 / 2nd,COMPUTER SCIENCE,3,ST / COM / 187
+48,COM 4848,Computational Biology,400 / 2nd,COMPUTER SCIENCE,3,ST / COM / 188
+49,COM 4949,Advanced Algorithms,400 / 2nd,COMPUTER SCIENCE,4,ST / COM / 189
+50,COM 5050,Introduction to Data Science,400 / 2nd,COMPUTER SCIENCE,4,ST / COM / 190
+1,ECO 101,Introduction to Microeconomics,100 / 1st,ECONOMICS,2,ST / ECO / 141
+2,ECO 202,Introduction to Macroeconomics,100 / 1st,ECONOMICS,1,ST / ECO / 142
+3,ECO 303,Intermediate Microeconomics,100 / 1st,ECONOMICS,2,ST / ECO / 143
+4,ECO 404,Intermediate Macroeconomics,100 / 1st,ECONOMICS,1,ST / ECO / 144
+5,ECO 505,Econometrics,100 / 1st,ECONOMICS,4,ST / ECO / 145
+6,ECO 606,International Economics,100 / 1st,ECONOMICS,1,ST / ECO / 191
+7,ECO 707,Development Economics,100 / 2nd,ECONOMICS,3,ST / ECO / 192
+8,ECO 808,Labor Economics,100 / 2nd,ECONOMICS,3,ST / ECO / 193
+9,ECO 909,Public Economics,100 / 2nd,ECONOMICS,2,ST / ECO / 194
+10,ECO 1010,Health Economics,100 / 2nd,ECONOMICS,1,ST / ECO / 195
+11,ECO 1111,Environmental Economics,100 / 2nd,ECONOMICS,1,ST / ECO / 141
+12,MAT 2525,Game Theory,100 / 2nd,ECONOMICS,1,ST / ECO / 142
+13,ECO 1313,Behavioral Economics,200 / 1st,ECONOMICS,2,ST / ECO / 143
+14,ECO 1414,Industrial Organization,200 / 1st,ECONOMICS,2,ST / ECO / 144
+15,ECO 1515,Financial Economics,200 / 1st,ECONOMICS,3,ST / ECO / 145
+16,ECO 1616,Monetary Economics,200 / 1st,ECONOMICS,2,ST / ECO / 191
+17,HIS 2828,Economic History,200 / 1st,ECONOMICS,1,ST / ECO / 192
+18,ECO 1818,Urban Economics,200 / 1st,ECONOMICS,2,ST / ECO / 193
+19,ECO 1919,Regional Economics,200 / 2nd,ECONOMICS,2,ST / ECO / 194
+20,ECO 2020,Agricultural Economics,200 / 2nd,ECONOMICS,1,ST / ECO / 195
+21,ECO 2121,Political Economy,200 / 2nd,ECONOMICS,4,ST / ECO / 141
+22,ECO 2222,Economics of Education,200 / 2nd,ECONOMICS,3,ST / ECO / 142
+23,ECO 2323,Economics of Innovation,200 / 2nd,ECONOMICS,2,ST / ECO / 143
+24,ECO 2424,International Trade,200 / 2nd,ECONOMICS,4,ST / ECO / 144
+25,ECO 2525,International Finance,300 / 1st,ECONOMICS,3,ST / ECO / 145
+26,ECO 2626,Cost-Benefit Analysis,300 / 1st,ECONOMICS,3,ST / ECO / 191
+27,ECO 2727,Economic Development in Latin America,300 / 1st,ECONOMICS,2,ST / ECO / 192
+28,ECO 2828,Economics of Globalization,300 / 1st,ECONOMICS,2,ST / ECO / 193
+29,ECO 2929,Energy Economics,300 / 1st,ECONOMICS,2,ST / ECO / 194
+30,ECO 3030,Economics of Inequality,300 / 1st,ECONOMICS,4,ST / ECO / 195
+31,ECO 3131,Economics of Migration,300 / 2nd,ECONOMICS,4,ST / ECO / 141
+32,ECO 3232,Economics of Poverty,300 / 2nd,ECONOMICS,4,ST / ECO / 142
+33,ECO 3333,Economics of Social Policy,300 / 2nd,ECONOMICS,3,ST / ECO / 143
+34,ECO 3434,Advanced Microeconomic Theory,300 / 2nd,ECONOMICS,1,ST / ECO / 144
+35,ECO 3535,Advanced Macroeconomic Theory,300 / 2nd,ECONOMICS,2,ST / ECO / 145
+36,MAT 4646,Time Series Analysis,300 / 2nd,ECONOMICS,4,ST / ECO / 191
+37,ECO 3737,Applied Econometrics,300 / 2nd,ECONOMICS,3,ST / ECO / 192
+38,ECO 3838,Experimental Economics,300 / 2nd,ECONOMICS,4,ST / ECO / 193
+39,ECO 3939,Housing Economics,400 / 1st,ECONOMICS,3,ST / ECO / 194
+40,ECO 4040,Law and Economics,400 / 1st,ECONOMICS,1,ST / ECO / 195
+41,ECO 4141,Public Finance,400 / 1st,ECONOMICS,1,ST / ECO / 141
+42,ECO 4242,Comparative Economic Systems,400 / 1st,ECONOMICS,2,ST / ECO / 142
+43,ECO 4343,Welfare Economics,400 / 1st,ECONOMICS,3,ST / ECO / 143
+44,ECO 4444,Economics of Risk and Uncertainty,400 / 1st,ECONOMICS,2,ST / ECO / 144
+45,ECO 4545,Economics of Natural Resources,400 / 2nd,ECONOMICS,4,ST / ECO / 145
+46,ECO 4646,Microeconomic Policy Analysis,400 / 2nd,ECONOMICS,1,ST / ECO / 191
+47,ECO 4747,Macroeconomic Policy Analysis,400 / 2nd,ECONOMICS,3,ST / ECO / 192
+48,ECO 4848,History of Economic Thought,400 / 2nd,ECONOMICS,3,ST / ECO / 193
+49,ECO 4949,Transportation Economics,400 / 2nd,ECONOMICS,2,ST / ECO / 194
+50,ECO 5050,Sports Economics,400 / 2nd,ECONOMICS,1,ST / ECO / 195
+1,POL 101,Introduction to Political Science,100 / 1st,POLITICAL SCIENCE,1,ST / POL / 146
+2,POL 202,Comparative Politics,100 / 1st,POLITICAL SCIENCE,1,ST / POL / 147
+3,POL 303,International Relations,100 / 1st,POLITICAL SCIENCE,2,ST / POL / 148
+4,POL 404,American Government and Politics,100 / 1st,POLITICAL SCIENCE,3,ST / POL / 149
+5,POL 505,Political Theory,100 / 1st,POLITICAL SCIENCE,3,ST / POL / 150
+6,POL 606,Public Policy,100 / 1st,POLITICAL SCIENCE,1,ST / POL / 196
+7,POL 707,International Organizations,100 / 2nd,POLITICAL SCIENCE,2,ST / POL / 197
+8,ECO 2121,Political Economy,100 / 2nd,POLITICAL SCIENCE,1,ST / POL / 198
+9,POL 909,Research Methods in Political Science,100 / 2nd,POLITICAL SCIENCE,1,ST / POL / 199
+10,POL 1010,Political Philosophy,100 / 2nd,POLITICAL SCIENCE,2,ST / POL / 200
+11,POL 1111,Environmental Politics,100 / 2nd,POLITICAL SCIENCE,4,ST / POL / 146
+12,POL 1212,Political Sociology,100 / 2nd,POLITICAL SCIENCE,2,ST / POL / 147
+13,POL 1313,Constitutional Law,200 / 1st,POLITICAL SCIENCE,3,ST / POL / 148
+14,POL 1414,Public Administration,200 / 1st,POLITICAL SCIENCE,4,ST / POL / 149
+15,POL 1515,Gender and Politics,200 / 1st,POLITICAL SCIENCE,1,ST / POL / 150
+16,POL 1616,Political Campaigns and Elections,200 / 1st,POLITICAL SCIENCE,4,ST / POL / 196
+17,POL 1717,Human Rights and International Law,200 / 1st,POLITICAL SCIENCE,1,ST / POL / 197
+18,POL 1818,National Security and Defense,200 / 1st,POLITICAL SCIENCE,3,ST / POL / 198
+19,POL 1919,U.S. Foreign Policy,200 / 2nd,POLITICAL SCIENCE,3,ST / POL / 199
+20,POL 2020,Comparative Political Institutions,200 / 2nd,POLITICAL SCIENCE,4,ST / POL / 200
+21,POL 2121,Political Ideologies,200 / 2nd,POLITICAL SCIENCE,3,ST / POL / 146
+22,POL 2222,State and Local Government,200 / 2nd,POLITICAL SCIENCE,2,ST / POL / 147
+23,POL 2323,Middle Eastern Politics,200 / 2nd,POLITICAL SCIENCE,4,ST / POL / 148
+24,POL 2424,Latin American Politics,200 / 2nd,POLITICAL SCIENCE,3,ST / POL / 149
+25,POL 2525,Asian Politics,300 / 1st,POLITICAL SCIENCE,1,ST / POL / 150
+26,POL 2626,African Politics,300 / 1st,POLITICAL SCIENCE,3,ST / POL / 196
+27,POL 2727,European Politics,300 / 1st,POLITICAL SCIENCE,2,ST / POL / 197
+28,POL 2828,International Conflict and Cooperation,300 / 1st,POLITICAL SCIENCE,3,ST / POL / 198
+29,POL 2929,Political Behavior,300 / 1st,POLITICAL SCIENCE,1,ST / POL / 199
+30,POL 3030,Urban Politics,300 / 1st,POLITICAL SCIENCE,4,ST / POL / 200
+31,POL 3131,Political Communication,300 / 2nd,POLITICAL SCIENCE,2,ST / POL / 146
+32,POL 3232,Political Psychology,300 / 2nd,POLITICAL SCIENCE,1,ST / POL / 147
+33,POL 3333,Policy Analysis,300 / 2nd,POLITICAL SCIENCE,3,ST / POL / 148
+34,POL 3434,Comparative Public Policy,300 / 2nd,POLITICAL SCIENCE,4,ST / POL / 149
+35,POL 3535,Democracy and Democratization,300 / 2nd,POLITICAL SCIENCE,3,ST / POL / 150
+36,POL 3636,International Political Economy,300 / 2nd,POLITICAL SCIENCE,1,ST / POL / 196
+37,POL 3737,Political Corruption,300 / 2nd,POLITICAL SCIENCE,1,ST / POL / 197
+38,POL 3838,Global Governance,300 / 2nd,POLITICAL SCIENCE,4,ST / POL / 198
+39,POL 3939,Theories of International Relations,400 / 1st,POLITICAL SCIENCE,2,ST / POL / 199
+40,POL 4040,Law and Politics,400 / 1st,POLITICAL SCIENCE,3,ST / POL / 200
+41,POL 4141,Political Activism and Movements,400 / 1st,POLITICAL SCIENCE,1,ST / POL / 146
+42,POL 4242,Comparative Foreign Policy,400 / 1st,POLITICAL SCIENCE,3,ST / POL / 147
+43,POL 4343,Political Ethics,400 / 1st,POLITICAL SCIENCE,2,ST / POL / 148
+44,POL 4444,European Union Politics,400 / 1st,POLITICAL SCIENCE,4,ST / POL / 149
+45,POL 4545,Security Studies,400 / 2nd,POLITICAL SCIENCE,3,ST / POL / 150
+46,POL 4646,International Development,400 / 2nd,POLITICAL SCIENCE,3,ST / POL / 196
+47,POL 4747,International Human Rights,400 / 2nd,POLITICAL SCIENCE,3,ST / POL / 197
+48,POL 4848,Race and Politics,400 / 2nd,POLITICAL SCIENCE,1,ST / POL / 198
+49,POL 4949,The Politics of Globalization,400 / 2nd,POLITICAL SCIENCE,4,ST / POL / 199
+50,POL 5050,Political Economy of Development,400 / 2nd,POLITICAL SCIENCE,2,ST / POL / 200
